@@ -1,4 +1,4 @@
-#include "srandom.glsl"
+#include "res://srandom.glsl"
 
 /*
 contributors: Inigo Quilez

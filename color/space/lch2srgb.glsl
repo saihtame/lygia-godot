@@ -1,5 +1,5 @@
-#include "lch2lab.glsl"
-#include "lab2srgb.glsl"
+#include "res://lch2lab.glsl"
+#include "res://lab2srgb.glsl"
 /*
 contributors: Patricio Gonzalez Vivo
 description: "Converts a Lch to sRGB color space. \nNote: LCh is simply Lab but converted to polar coordinates (in degrees).\n"

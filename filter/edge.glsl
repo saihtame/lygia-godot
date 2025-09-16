@@ -1,4 +1,4 @@
-#include "../sample/clamp2edge.glsl"
+#include "res://sample/clamp2edge.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo
@@ -29,9 +29,9 @@ license:
 #define EDGE_SAMPLER_FNC(TEX, UV) sampleClamp2edge(TEX, UV).r
 #endif
 
-#include "edge/prewitt.glsl"
-#include "edge/sobel.glsl"
-#include "edge/sobelDirectional.glsl"
+#include "res://edge/prewitt.glsl"
+#include "res://edge/sobel.glsl"
+#include "res://edge/sobelDirectional.glsl"
 
 #ifndef FNC_EDGE
 #define FNC_EDGE

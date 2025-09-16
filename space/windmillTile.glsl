@@ -1,6 +1,6 @@
-#include "../math/const.glsl"
-#include "rotate.glsl"
-#include "sqTile.glsl"
+#include "res://math/const.glsl"
+#include "res://rotate.glsl"
+#include "res://sqTile.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

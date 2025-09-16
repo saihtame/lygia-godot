@@ -1,4 +1,4 @@
-#include "../toShininess.glsl"
+#include "res://toShininess.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

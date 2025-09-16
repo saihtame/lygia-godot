@@ -1,7 +1,7 @@
-#include "envMap.glsl"
-#include "ior.glsl"
-#include "ior/2eta.glsl"
-#include "ior/2f0.glsl"
+#include "res://envMap.glsl"
+#include "res://ior.glsl"
+#include "res://ior/2eta.glsl"
+#include "res://ior/2f0.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

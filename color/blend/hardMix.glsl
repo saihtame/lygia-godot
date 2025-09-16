@@ -1,4 +1,4 @@
-#include "vividLight.glsl"
+#include "res://vividLight.glsl"
 
 /*
 contributors: Jamie Owen

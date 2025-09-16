@@ -1,15 +1,15 @@
-#include "albedo.glsl"
-#include "specular.glsl"
-#include "emissive.glsl"
-#include "occlusion.glsl"
-#include "normal.glsl"
-#include "metallic.glsl"
-#include "roughness.glsl"
-#include "shininess.glsl"
+#include "res://albedo.glsl"
+#include "res://specular.glsl"
+#include "res://emissive.glsl"
+#include "res://occlusion.glsl"
+#include "res://normal.glsl"
+#include "res://metallic.glsl"
+#include "res://roughness.glsl"
+#include "res://shininess.glsl"
 
-#include "../material.glsl"
-#include "../ior.glsl"
-#include "../../sampler.glsl"
+#include "res://material.glsl"
+#include "res://ior.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

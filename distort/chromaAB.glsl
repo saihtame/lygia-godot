@@ -1,5 +1,5 @@
-#include "../math/lengthSq.glsl"
-#include "../sampler.glsl"
+#include "res://math/lengthSq.glsl"
+#include "res://sampler.glsl"
 /*
 contributors:
     - Patricio Gonzalez Vivo

@@ -1,4 +1,4 @@
-#include "../math/aastep.glsl"
+#include "res://math/aastep.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

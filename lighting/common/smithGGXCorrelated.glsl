@@ -1,5 +1,5 @@
 
-#include "../../math/saturateMediump.glsl"
+#include "res://math/saturateMediump.glsl"
 
 #ifndef FNC_SMITH_GGX_CORRELATED
 #define FNC_SMITH_GGX_CORRELATED

@@ -1,8 +1,8 @@
-#include "../common/ggx.glsl"
-#include "../common/smithGGXCorrelated.glsl"
-#include "../../math/saturate.glsl"
-#include "../../math/saturateMediump.glsl"
-#include "../fresnel.glsl"
+#include "res://common/ggx.glsl"
+#include "res://common/smithGGXCorrelated.glsl"
+#include "res://math/saturate.glsl"
+#include "res://math/saturateMediump.glsl"
+#include "res://fresnel.glsl"
 
 #ifndef FNC_SPECULAR_COOKTORRANCE
 #define FNC_SPECULAR_COOKTORRANCE

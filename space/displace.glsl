@@ -1,5 +1,5 @@
-#include "../space/lookAt.glsl"
-#include "../sampler.glsl"
+#include "res://space/lookAt.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

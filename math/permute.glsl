@@ -1,4 +1,4 @@
-#include "mod289.glsl"
+#include "res://mod289.glsl"
 
 /*
 contributors: [Stefan Gustavson, Ian McEwan]

@@ -1,7 +1,7 @@
-#include "2DCube.glsl"
-#include "../space/scale.glsl"
-#include "../sdf/boxSDF.glsl"
-#include "../sdf/opIntersection.glsl"
+#include "res://2DCube.glsl"
+#include "res://space/scale.glsl"
+#include "res://sdf/boxSDF.glsl"
+#include "res://sdf/opIntersection.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

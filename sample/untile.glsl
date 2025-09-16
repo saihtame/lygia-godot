@@ -1,7 +1,7 @@
-#include "../math/const.glsl"
-#include "../math/sum.glsl"
-#include "../generative/random.glsl"
-#include "../sampler.glsl"
+#include "res://math/const.glsl"
+#include "res://math/sum.glsl"
+#include "res://generative/random.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Inigo Quiles

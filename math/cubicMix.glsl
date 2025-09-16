@@ -1,4 +1,4 @@
-#include "cubic.glsl"
+#include "res://cubic.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

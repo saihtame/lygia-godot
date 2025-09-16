@@ -1,8 +1,8 @@
 
-#include "../sdf/triSDF.glsl"
+#include "res://sdf/triSDF.glsl"
 
-#include "fill.glsl"
-#include "stroke.glsl"
+#include "res://fill.glsl"
+#include "res://stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

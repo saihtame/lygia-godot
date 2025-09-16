@@ -1,4 +1,4 @@
-#include "snoise.glsl"
+#include "res://snoise.glsl"
 
 /*
 contributors: Isaac Cohen

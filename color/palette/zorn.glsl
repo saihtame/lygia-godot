@@ -1,4 +1,4 @@
-#include "pigments.glsl"
+#include "res://pigments.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

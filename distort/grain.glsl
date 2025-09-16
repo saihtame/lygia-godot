@@ -1,8 +1,8 @@
-#include "../generative/snoise.glsl"
-#include "../generative/pnoise.glsl"
-#include "../color/luma.glsl"
-#include "../color/blend/softLight.glsl"
-#include "../sampler.glsl"
+#include "res://generative/snoise.glsl"
+#include "res://generative/pnoise.glsl"
+#include "res://color/luma.glsl"
+#include "res://color/blend/softLight.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Matt DesLauriers

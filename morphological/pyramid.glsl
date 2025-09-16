@@ -8,8 +8,8 @@
 // #define PYRAMID_H2 1.0
 // #define PYRAMID_G  0.547, 0.175
 
-#include "pyramid/downscale.glsl"
-#include "pyramid/upscale.glsl"
+#include "res://pyramid/downscale.glsl"
+#include "res://pyramid/upscale.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

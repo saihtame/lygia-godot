@@ -1,4 +1,4 @@
-#include "../../../math/bump.glsl"
+#include "res://math/bump.glsl"
 
 /*
 contributors: ["Jos Stam", "Alias Systems"]

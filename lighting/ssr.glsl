@@ -1,8 +1,8 @@
 
-#include "../space/view2screenPosition.glsl"
-#include "../sdf/lineSDF.glsl"
-#include "../sdf/planeSDF.glsl"
-#include "../sampler.glsl"
+#include "res://space/view2screenPosition.glsl"
+#include "res://sdf/lineSDF.glsl"
+#include "res://sdf/planeSDF.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

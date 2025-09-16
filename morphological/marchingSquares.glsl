@@ -1,6 +1,6 @@
-#include "../math/const.glsl"
-#include "../math/rotate2d.glsl"
-#include "../sampler.glsl"
+#include "res://math/const.glsl"
+#include "res://math/rotate2d.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Guido Schmidt

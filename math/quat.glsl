@@ -1,5 +1,5 @@
-#include "quat/mul.glsl"
-#include "quat/identity.glsl"
+#include "res://quat/mul.glsl"
+#include "res://quat/identity.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

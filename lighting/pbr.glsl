@@ -6,12 +6,12 @@
 #define SPECULAR_FNC specularCookTorrance
 #endif
 
-#include "../math/saturate.glsl"
-#include "shadingData/new.glsl"
-#include "material.glsl"
-#include "light/new.glsl"
-#include "light/resolve.glsl"
-#include "light/iblEvaluate.glsl"
+#include "res://math/saturate.glsl"
+#include "res://shadingData/new.glsl"
+#include "res://material.glsl"
+#include "res://light/new.glsl"
+#include "res://light/resolve.glsl"
+#include "res://light/iblEvaluate.glsl"
 
 /*
 contributors: [Patricio Gonzalez Vivo, Shadi El Hajj]

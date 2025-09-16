@@ -1,5 +1,5 @@
-#include "../sdf/lineSDF.glsl"
-#include "../math/saturate.glsl"
+#include "res://sdf/lineSDF.glsl"
+#include "res://math/saturate.glsl"
 
 /*
 contributors: ["Morgan McGuire", "Matthias Reitinger"]

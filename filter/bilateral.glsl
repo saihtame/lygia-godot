@@ -1,6 +1,6 @@
-#include "../math/gaussian.glsl"
-#include "../color/space/rgb2luma.glsl"
-#include "../sample/clamp2edge.glsl"
+#include "res://math/gaussian.glsl"
+#include "res://color/space/rgb2luma.glsl"
+#include "res://sample/clamp2edge.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

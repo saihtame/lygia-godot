@@ -1,6 +1,6 @@
-#include "../../math/saturate.glsl"
-#include "../../math/mmax.glsl"
-#include "../../sampler.glsl"
+#include "res://math/saturate.glsl"
+#include "res://math/mmax.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: bacondither

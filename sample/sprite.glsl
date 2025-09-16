@@ -1,5 +1,5 @@
-#include "../space/sprite.glsl"
-#include "../sampler.glsl"
+#include "res://space/sprite.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

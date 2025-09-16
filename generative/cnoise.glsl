@@ -1,7 +1,7 @@
-#include "../math/mod289.glsl"
-#include "../math/permute.glsl"
-#include "../math/taylorInvSqrt.glsl"
-#include "../math/quintic.glsl"
+#include "res://math/mod289.glsl"
+#include "res://math/permute.glsl"
+#include "res://math/taylorInvSqrt.glsl"
+#include "res://math/quintic.glsl"
 
 /*
 contributors: [Stefan Gustavson, Ian McEwan]

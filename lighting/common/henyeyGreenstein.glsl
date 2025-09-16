@@ -1,4 +1,4 @@
-#include "../../math/const.glsl"
+#include "res://math/const.glsl"
 
 // Henyey-Greenstein phase function factor [-1, 1]
 // represents the average cosine of the scattered directions

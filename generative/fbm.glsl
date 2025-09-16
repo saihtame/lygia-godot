@@ -1,5 +1,5 @@
-#include "snoise.glsl"
-#include "gnoise.glsl"
+#include "res://snoise.glsl"
+#include "res://gnoise.glsl"
 
 
 /*

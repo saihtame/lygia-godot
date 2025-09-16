@@ -1,5 +1,5 @@
-#include "lighten.glsl"
-#include "darken.glsl"
+#include "res://lighten.glsl"
+#include "res://darken.glsl"
 
 /*
 contributors: Jamie Owen

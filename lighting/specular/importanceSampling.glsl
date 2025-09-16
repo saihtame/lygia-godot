@@ -1,11 +1,11 @@
-#include "../../math/hammersley.glsl"
-#include "../../math/rotate3dZ.glsl"
-#include "../../space/tbn.glsl"
-#include "../../generative/random.glsl"
-#include "../common/ggx.glsl"
-#include "../common/smithGGXCorrelated.glsl"
-#include "../fresnel.glsl"
-#include "../common/preFilteredImportanceSampling.glsl"
+#include "res://math/hammersley.glsl"
+#include "res://math/rotate3dZ.glsl"
+#include "res://space/tbn.glsl"
+#include "res://generative/random.glsl"
+#include "res://common/ggx.glsl"
+#include "res://common/smithGGXCorrelated.glsl"
+#include "res://fresnel.glsl"
+#include "res://common/preFilteredImportanceSampling.glsl"
 
 /*
 contributors:  Shadi El Hajj

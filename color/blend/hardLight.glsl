@@ -1,4 +1,4 @@
-#include "overlay.glsl"
+#include "res://overlay.glsl"
 
 /*
 contributors: Jamie Owen

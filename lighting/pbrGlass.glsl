@@ -1,18 +1,18 @@
-#include "../color/tonemap.glsl"
+#include "res://color/tonemap.glsl"
 
-#include "material.glsl"
-#include "light/new.glsl"
-#include "envMap.glsl"
-#include "specular.glsl"
-#include "fresnelReflection.glsl"
-#include "transparent.glsl"
+#include "res://material.glsl"
+#include "res://light/new.glsl"
+#include "res://envMap.glsl"
+#include "res://specular.glsl"
+#include "res://fresnelReflection.glsl"
+#include "res://transparent.glsl"
 
-#include "ior/2eta.glsl"
-#include "ior/2f0.glsl"
+#include "res://ior/2eta.glsl"
+#include "res://ior/2f0.glsl"
 
-#include "reflection.glsl"
-#include "common/specularAO.glsl"
-#include "common/envBRDFApprox.glsl"
+#include "res://reflection.glsl"
+#include "res://common/specularAO.glsl"
+#include "res://common/envBRDFApprox.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

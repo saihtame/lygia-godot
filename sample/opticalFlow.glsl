@@ -1,6 +1,6 @@
-#include "../sampler.glsl"
-#include "../math/const.glsl"
-#include "../color/space/rgb2hsv.glsl"
+#include "res://sampler.glsl"
+#include "res://math/const.glsl"
+#include "res://color/space/rgb2hsv.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

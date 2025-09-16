@@ -6,6 +6,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "circularIn.glsl"
-#include "circularOut.glsl"
-#include "circularInOut.glsl"
+#include "res://circularIn.glsl"
+#include "res://circularOut.glsl"
+#include "res://circularInOut.glsl"

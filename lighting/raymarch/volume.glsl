@@ -1,8 +1,8 @@
-#include "map.glsl"
-#include "../light/attenuation.glsl"
-#include "../../generative/random.glsl"
-#include "../../math/const.glsl"
-#include "../medium/new.glsl"
+#include "res://map.glsl"
+#include "res://light/attenuation.glsl"
+#include "res://generative/random.glsl"
+#include "res://math/const.glsl"
+#include "res://medium/new.glsl"
 
 /*
 contributors:  Shadi El Hajj

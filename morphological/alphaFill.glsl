@@ -1,5 +1,5 @@
-#include "../sampler.glsl"
-#include "../math/const.glsl"
+#include "res://sampler.glsl"
+#include "res://math/const.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

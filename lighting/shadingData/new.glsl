@@ -1,8 +1,8 @@
-#include "shadingData.glsl"
-#include "../material.glsl"
-#include "../reflection.glsl"
-#include "../ior/reflectance2f0.glsl"
-#include "../common/perceptual2linearRoughness.glsl"
+#include "res://shadingData.glsl"
+#include "res://material.glsl"
+#include "res://reflection.glsl"
+#include "res://ior/reflectance2f0.glsl"
+#include "res://common/perceptual2linearRoughness.glsl"
 
 /*
 contributors:  Shadi El Hajj

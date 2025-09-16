@@ -1,5 +1,5 @@
-#include "../../math/saturate.glsl"
-#include "hue2rgb.glsl"
+#include "res://math/saturate.glsl"
+#include "res://hue2rgb.glsl"
 /*
 contributors: Inigo Quiles
 description: |

@@ -1,8 +1,8 @@
-#include "../math/const.glsl"
-#include "../math/inverse.glsl"
-#include "../space/screen2viewPosition.glsl"
-#include "../space/depth2viewZ.glsl"
-#include "../sampler.glsl"
+#include "res://math/const.glsl"
+#include "res://math/inverse.glsl"
+#include "res://space/screen2viewPosition.glsl"
+#include "res://space/depth2viewZ.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

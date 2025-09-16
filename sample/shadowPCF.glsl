@@ -1,4 +1,4 @@
-#include "shadowLerp.glsl"
+#include "res://shadowLerp.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

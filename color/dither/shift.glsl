@@ -1,4 +1,4 @@
-#include "../../math/decimate.glsl"
+#include "res://math/decimate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

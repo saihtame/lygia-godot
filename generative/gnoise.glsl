@@ -1,7 +1,7 @@
-#include "random.glsl"
-#include "srandom.glsl"
-#include "../math/cubic.glsl"
-#include "../math/quintic.glsl"
+#include "res://random.glsl"
+#include "res://srandom.glsl"
+#include "res://math/cubic.glsl"
+#include "res://math/quintic.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

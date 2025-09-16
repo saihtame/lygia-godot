@@ -1,8 +1,8 @@
-#include "cast.glsl"
-#include "ao.glsl"
-#include "normal.glsl"
-#include "shading.glsl"
-#include "fog.glsl"
+#include "res://cast.glsl"
+#include "res://ao.glsl"
+#include "res://normal.glsl"
+#include "res://shading.glsl"
+#include "res://fog.glsl"
 
 /*
 contributors:  Inigo Quiles

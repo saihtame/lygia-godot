@@ -1,4 +1,4 @@
-#include "../../math/const.glsl"
+#include "res://math/const.glsl"
 
 #ifndef FNC_ASHIKHMIN
 #define FNC_ASHIKHMIN

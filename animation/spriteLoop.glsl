@@ -1,4 +1,4 @@
-#include "../sample/sprite.glsl"
+#include "res://sample/sprite.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

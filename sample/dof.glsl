@@ -1,5 +1,5 @@
-#include "../color/palette/heatmap.glsl"
-#include "../sampler.glsl"
+#include "res://color/palette/heatmap.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Dennis Gustafsson

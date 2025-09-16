@@ -1,9 +1,9 @@
-#include "shadingData/new.glsl"
-#include "specular/phong.glsl"
-#include "specular/blinnPhong.glsl"
-#include "specular/cookTorrance.glsl"
-#include "specular/gaussian.glsl"
-#include "specular/beckmann.glsl"
+#include "res://shadingData/new.glsl"
+#include "res://specular/phong.glsl"
+#include "res://specular/blinnPhong.glsl"
+#include "res://specular/cookTorrance.glsl"
+#include "res://specular/gaussian.glsl"
+#include "res://specular/beckmann.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,6 +1,6 @@
-#include "../color/palette/hue.glsl"
-#include "../color/space/w2rgb.glsl"
-#include "../color/space/gamma2linear.glsl"
+#include "res://color/palette/hue.glsl"
+#include "res://color/space/w2rgb.glsl"
+#include "res://color/space/gamma2linear.glsl"
 
 /*
 contributors: Paniq

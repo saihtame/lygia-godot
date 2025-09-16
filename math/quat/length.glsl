@@ -1,4 +1,4 @@
-#include "lengthSq.glsl"
+#include "res://lengthSq.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

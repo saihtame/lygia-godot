@@ -1,4 +1,4 @@
-#include "../math/pow2.glsl"
+#include "res://math/pow2.glsl"
 
 /*
 contributors: Kathy McGuiness

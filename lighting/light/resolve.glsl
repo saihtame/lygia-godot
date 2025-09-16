@@ -1,8 +1,8 @@
-#include "point.glsl"
-#include "pointEvaluate.glsl"
-#include "directional.glsl"
-#include "directionalEvaluate.glsl"
-#include "../material.glsl"
+#include "res://point.glsl"
+#include "res://pointEvaluate.glsl"
+#include "res://directional.glsl"
+#include "res://directionalEvaluate.glsl"
+#include "res://material.glsl"
 
 #ifndef FNC_LIGHT_RESOLVE
 #define FNC_LIGHT_RESOLVE

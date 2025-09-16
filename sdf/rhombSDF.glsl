@@ -1,5 +1,5 @@
-#include "triSDF.glsl"
-#include "../space/scale.glsl"
+#include "res://triSDF.glsl"
+#include "res://space/scale.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,4 +1,4 @@
-#include "../../math/const.glsl"
+#include "res://math/const.glsl"
 
 /*
 contributors: Hugh Kennedy (https://github.com/hughsk)

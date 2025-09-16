@@ -1,4 +1,4 @@
-#include "../medium.glsl"
+#include "res://medium.glsl"
 
 /*
 contributors: Shadi El Hajj

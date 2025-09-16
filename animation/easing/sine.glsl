@@ -1,4 +1,4 @@
-#include "../../math/const.glsl"
+#include "res://math/const.glsl"
 
 /*
 contributors: Hugh Kennedy (https://github.com/hughsk)
@@ -8,6 +8,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "sineIn.glsl"
-#include "sineOut.glsl"
-#include "sineInOut.glsl"
+#include "res://sineIn.glsl"
+#include "res://sineOut.glsl"
+#include "res://sineInOut.glsl"

@@ -6,6 +6,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "backIn.glsl"
-#include "backOut.glsl"
-#include "backInOut.glsl"
+#include "res://backIn.glsl"
+#include "res://backOut.glsl"
+#include "res://backInOut.glsl"

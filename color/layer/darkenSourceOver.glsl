@@ -1,5 +1,5 @@
-#include "../blend.glsl"
-#include "../composite/sourceOver.glsl"
+#include "res://blend.glsl"
+#include "res://composite/sourceOver.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo, Anton Marini

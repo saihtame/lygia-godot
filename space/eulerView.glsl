@@ -5,10 +5,10 @@ use: <mat4> eulerView(in <vec3> position, in <vec3> euler)
 license: MIT License (MIT) Copyright (c) 2024 Shadi EL Hajj
 */
 
-#include "../math/rotate3dX.glsl"
-#include "../math/rotate3dY.glsl"
-#include "../math/rotate3dZ.glsl"
-#include "translate.glsl"
+#include "res://math/rotate3dX.glsl"
+#include "res://math/rotate3dY.glsl"
+#include "res://math/rotate3dZ.glsl"
+#include "res://translate.glsl"
 
 #ifndef FNC_EULERVIEW
 #define FNC_EULERVIEW

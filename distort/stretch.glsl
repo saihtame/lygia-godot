@@ -1,4 +1,4 @@
-#include "../sampler.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors:

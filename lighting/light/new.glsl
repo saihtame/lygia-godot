@@ -1,6 +1,6 @@
-#include "directional.glsl"
-#include "point.glsl"
-#include "../shadow.glsl"
+#include "res://directional.glsl"
+#include "res://point.glsl"
+#include "res://shadow.glsl"
 
 #ifndef FNC_LIGHT_NEW
 #define FNC_LIGHT_NEW

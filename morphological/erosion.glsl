@@ -1,6 +1,6 @@
-#include "../sampler.glsl"
-#include "../math/saturate.glsl"
-#include "../math/sum.glsl"
+#include "res://sampler.glsl"
+#include "res://math/saturate.glsl"
+#include "res://math/sum.glsl"
 
 /*
 contributors: nan

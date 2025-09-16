@@ -1,4 +1,4 @@
-#include "../math/const.glsl"
+#include "res://math/const.glsl"
 
 /*
 description: generate the SDF of a dodecahedron

@@ -1,4 +1,4 @@
-#include "derivative.glsl"
+#include "res://derivative.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

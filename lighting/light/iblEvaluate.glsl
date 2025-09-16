@@ -5,14 +5,14 @@ use: void lightIBLEvaluate(<Material> mat, inout <ShadingData> shadingData)
 license: MIT License (MIT) Copyright (c) 2024 Shadi El Hajj
 */
 
-#include "../envMap.glsl"
-#include "../fresnelReflection.glsl"
-#include "../sphericalHarmonics.glsl"
-#include "../specular/importanceSampling.glsl"
-#include "../reflection.glsl"
-#include "../common/specularAO.glsl"
-#include "../common/envBRDFApprox.glsl"
-#include "../../color/tonemap.glsl"
+#include "res://envMap.glsl"
+#include "res://fresnelReflection.glsl"
+#include "res://sphericalHarmonics.glsl"
+#include "res://specular/importanceSampling.glsl"
+#include "res://reflection.glsl"
+#include "res://common/specularAO.glsl"
+#include "res://common/envBRDFApprox.glsl"
+#include "res://color/tonemap.glsl"
 
 #ifndef IBL_LUMINANCE
 #define IBL_LUMINANCE   1.0

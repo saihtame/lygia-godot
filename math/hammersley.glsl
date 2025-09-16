@@ -1,4 +1,4 @@
-#include "const.glsl"
+#include "res://const.glsl"
 
 /*
 contributors: Holger Dammertz

@@ -1,8 +1,8 @@
-#include "../math/const.glsl"
-#include "../sampler.glsl"
-#include "../sample/nearest.glsl"
+#include "res://math/const.glsl"
+#include "res://sampler.glsl"
+#include "res://sample/nearest.glsl"
 
-#include "../generative/random.glsl"
+#include "res://generative/random.glsl"
 
 /*
 contributors:

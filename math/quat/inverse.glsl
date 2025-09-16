@@ -1,6 +1,6 @@
-#include "div.glsl"
-#include "conj.glsl"
-#include "lengthSq.glsl"
+#include "res://div.glsl"
+#include "res://conj.glsl"
+#include "res://lengthSq.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

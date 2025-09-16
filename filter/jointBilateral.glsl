@@ -1,5 +1,5 @@
-#include "../sample/clamp2edge.glsl"
-#include "../math/gaussian.glsl"
+#include "res://sample/clamp2edge.glsl"
+#include "res://math/gaussian.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

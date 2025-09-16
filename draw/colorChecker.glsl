@@ -1,9 +1,9 @@
-#include "../space/scale.glsl"
-#include "../color/palette/macbeth.glsl"
-#include "../color/palette/spyder.glsl"
-#include "../sdf/crossSDF.glsl"
-#include "rect.glsl"
-#include "stroke.glsl"
+#include "res://space/scale.glsl"
+#include "res://color/palette/macbeth.glsl"
+#include "res://color/palette/spyder.glsl"
+#include "res://sdf/crossSDF.glsl"
+#include "res://rect.glsl"
+#include "res://stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

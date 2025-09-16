@@ -1,5 +1,5 @@
-#include "saturate.glsl"
-#include "quintic.glsl"
+#include "res://saturate.glsl"
+#include "res://quintic.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

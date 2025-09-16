@@ -1,8 +1,8 @@
-#include "space/srgb2rgb.glsl"
-#include "space/rgb2srgb.glsl"
+#include "res://space/srgb2rgb.glsl"
+#include "res://space/rgb2srgb.glsl"
 
-#include "space/oklab2rgb.glsl"
-#include "space/rgb2oklab.glsl"
+#include "res://space/oklab2rgb.glsl"
+#include "res://space/rgb2oklab.glsl"
 
 /*
 contributors: [Bjorn Ottosson, Inigo Quiles]

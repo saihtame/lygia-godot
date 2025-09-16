@@ -1,5 +1,5 @@
-#include "../specular.glsl"
-#include "../diffuse.glsl"
+#include "res://specular.glsl"
+#include "res://diffuse.glsl"
 
 /*
 contributors: [Patricio Gonzalez Vivo, Shadi El Hajj]

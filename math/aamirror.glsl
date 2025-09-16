@@ -1,4 +1,4 @@
-#include "nyquist.glsl"
+#include "res://nyquist.glsl"
 
 /*
 contributors: Shadi El Hajj

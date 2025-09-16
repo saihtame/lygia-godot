@@ -1,10 +1,10 @@
-#include "spectral/gems.glsl"
-#include "spectral/geoffrey.glsl"
-#include "spectral/soft.glsl"
-#include "spectral/zucconi.glsl"
-#include "spectral/zucconi6.glsl"
+#include "res://spectral/gems.glsl"
+#include "res://spectral/geoffrey.glsl"
+#include "res://spectral/soft.glsl"
+#include "res://spectral/zucconi.glsl"
+#include "res://spectral/zucconi6.glsl"
 
-#include "../../math/const.glsl"
+#include "res://math/const.glsl"
 
 /*
 contributors: Martijn Steinrucken

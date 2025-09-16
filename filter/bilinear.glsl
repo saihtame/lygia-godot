@@ -1,6 +1,6 @@
-#include "../math/const.glsl"
-#include "../math/saturate.glsl"
-#include "../sample/clamp2edge.glsl"
+#include "res://math/const.glsl"
+#include "res://math/saturate.glsl"
+#include "res://sample/clamp2edge.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

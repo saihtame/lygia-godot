@@ -1,4 +1,4 @@
-#include "shadow.glsl"
+#include "res://shadow.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

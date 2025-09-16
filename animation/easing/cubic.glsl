@@ -6,6 +6,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "cubicIn.glsl"
-#include "cubicOut.glsl"
-#include "cubicInOut.glsl"
+#include "res://cubicIn.glsl"
+#include "res://cubicOut.glsl"
+#include "res://cubicInOut.glsl"

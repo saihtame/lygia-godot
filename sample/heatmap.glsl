@@ -1,5 +1,5 @@
-#include "../sampler.glsl"
-#include "../color/space/rgb2heat.glsl"
+#include "res://sampler.glsl"
+#include "res://color/space/rgb2heat.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

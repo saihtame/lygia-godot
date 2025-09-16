@@ -1,4 +1,4 @@
-#include "boxSDF.glsl"
+#include "res://boxSDF.glsl"
 
 /*
 description: generate the SDF of a cube

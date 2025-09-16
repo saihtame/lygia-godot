@@ -1,4 +1,4 @@
-#include "type.glsl"
+#include "res://type.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

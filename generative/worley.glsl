@@ -1,5 +1,5 @@
-#include "random.glsl"
-#include "../math/dist.glsl"
+#include "res://random.glsl"
+#include "res://math/dist.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

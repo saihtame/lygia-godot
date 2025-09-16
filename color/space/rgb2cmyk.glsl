@@ -1,5 +1,5 @@
-#include "../../math/mmin.glsl"
-#include "../../math/saturate.glsl"
+#include "res://math/mmin.glsl"
+#include "res://math/saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

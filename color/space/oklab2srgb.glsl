@@ -1,5 +1,5 @@
-#include "oklab2rgb.glsl"
-#include "rgb2srgb.glsl"
+#include "res://oklab2rgb.glsl"
+#include "res://rgb2srgb.glsl"
 
 /*
 contributors: Bjorn Ottosson (@bjornornorn)

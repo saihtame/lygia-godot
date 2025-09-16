@@ -1,16 +1,16 @@
-#include "../math/powFast.glsl"
-#include "../math/saturate.glsl"
-#include "../color/tonemap.glsl"
+#include "res://math/powFast.glsl"
+#include "res://math/saturate.glsl"
+#include "res://color/tonemap.glsl"
 
-#include "shadow.glsl"
-#include "material.glsl"
-#include "fresnelReflection.glsl"
-#include "sphericalHarmonics.glsl"
+#include "res://shadow.glsl"
+#include "res://material.glsl"
+#include "res://fresnelReflection.glsl"
+#include "res://sphericalHarmonics.glsl"
 
-#include "ior.glsl"
-#include "envMap.glsl"
-#include "diffuse.glsl"
-#include "specular.glsl"
+#include "res://ior.glsl"
+#include "res://envMap.glsl"
+#include "res://diffuse.glsl"
+#include "res://specular.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

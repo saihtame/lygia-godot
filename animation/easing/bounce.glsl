@@ -1,4 +1,4 @@
-#include "../../math/const.glsl"
+#include "res://math/const.glsl"
 
 /*
 contributors: Hugh Kennedy (https://github.com/hughsk)
@@ -11,6 +11,6 @@ examples:
     - https://raw.githubusercontent.com/eduardfossas/lygia-study-examples/main/animation/e_EasingBounce.frag
 */
 
-#include "bounceOut.glsl"
-#include "bounceIn.glsl"
-#include "bounceInOut.glsl"
+#include "res://bounceOut.glsl"
+#include "res://bounceIn.glsl"
+#include "res://bounceInOut.glsl"

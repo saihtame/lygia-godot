@@ -1,4 +1,4 @@
-#include "diagonal.glsl"
+#include "res://diagonal.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

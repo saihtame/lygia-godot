@@ -1,4 +1,4 @@
-#include "../sampler.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: [Morgan McGuire, Kyle Whitson]
@@ -31,8 +31,8 @@ examples:
 #define MEDIAN_SAMPLER_FNC(TEX, UV) SAMPLER_FNC(TEX, UV)
 #endif
 
-#include "median/2D_fast3.glsl"
-#include "median/2D_fast5.glsl"
+#include "res://median/2D_fast3.glsl"
+#include "res://median/2D_fast5.glsl"
 
 #ifndef FNC_MEDIAN
 #define FNC_MEDIAN

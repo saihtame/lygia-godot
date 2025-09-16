@@ -1,4 +1,4 @@
-#include "../math/modi.glsl"
+#include "res://math/modi.glsl"
 
 /*
 contributors: ['Tim Gfrerer', 'Patricio Gonzalez Vivo']

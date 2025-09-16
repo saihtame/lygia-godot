@@ -1,5 +1,5 @@
-#include "triangle.glsl"
-#include "../../math/saturate.glsl"
+#include "res://triangle.glsl"
+#include "res://math/saturate.glsl"
 
 /*
 contributors: Inigo Quiles

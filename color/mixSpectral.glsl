@@ -1,4 +1,4 @@
-#include "space/srgb2rgb.glsl"
+#include "res://space/srgb2rgb.glsl"
 
 /*
 contributors: Ronald van Wijnen (@OneDayOfCrypto)

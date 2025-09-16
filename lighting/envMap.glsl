@@ -1,9 +1,9 @@
-#include "../sample/equirect.glsl"
-#include "material/new.glsl"
-#include "shadingData/new.glsl"
+#include "res://sample/equirect.glsl"
+#include "res://material/new.glsl"
+#include "res://shadingData/new.glsl"
 
-#include "fakeCube.glsl"
-#include "toShininess.glsl"
+#include "res://fakeCube.glsl"
+#include "res://toShininess.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

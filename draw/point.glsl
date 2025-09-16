@@ -1,6 +1,6 @@
 
-#include "digits.glsl"
-#include "circle.glsl"
+#include "res://digits.glsl"
+#include "res://circle.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,6 +1,6 @@
-#include "../color/space/linear2gamma.glsl"
-#include "../color/space/gamma2linear.glsl"
-#include "../sampler.glsl"
+#include "res://color/space/linear2gamma.glsl"
+#include "res://color/space/gamma2linear.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors:

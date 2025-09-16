@@ -1,17 +1,17 @@
-#include "../math/const.glsl"
-#include "../math/saturate.glsl"
+#include "res://math/const.glsl"
+#include "res://math/saturate.glsl"
 
 // Stars deps
-#include "../math/mod2.glsl"
-#include "../math/rotate3dX.glsl"
-#include "../math/rotate3dZ.glsl"
-#include "../space/cart2polar.glsl"
-#include "../color/space/k2rgb.glsl"
-#include "../generative/random.glsl"
+#include "res://math/mod2.glsl"
+#include "res://math/rotate3dX.glsl"
+#include "res://math/rotate3dZ.glsl"
+#include "res://space/cart2polar.glsl"
+#include "res://color/space/k2rgb.glsl"
+#include "res://generative/random.glsl"
 
-#include "ray.glsl"
-#include "common/rayleigh.glsl"
-#include "common/henyeyGreenstein.glsl"
+#include "res://ray.glsl"
+#include "res://common/rayleigh.glsl"
+#include "res://common/henyeyGreenstein.glsl"
 
 /*
 contributor: Patricio Gonzalez Vivo

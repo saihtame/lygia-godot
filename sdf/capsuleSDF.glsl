@@ -1,4 +1,4 @@
-#include "../math/saturate.glsl"
+#include "res://math/saturate.glsl"
 /*
 contributors:  Inigo Quiles
 description: generate a SDF of a capsule

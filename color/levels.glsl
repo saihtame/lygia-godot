@@ -1,6 +1,6 @@
-#include "levels/inputRange.glsl"
-#include "levels/outputRange.glsl"
-#include "levels/gamma.glsl"
+#include "res://levels/inputRange.glsl"
+#include "res://levels/outputRange.glsl"
+#include "res://levels/gamma.glsl"
 
 /*
 contributors: Johan Ismael

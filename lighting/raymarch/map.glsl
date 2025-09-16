@@ -1,5 +1,5 @@
-#include "../material.glsl"
-#include "../medium.glsl"
+#include "res://material.glsl"
+#include "res://medium.glsl"
 
 /*
 contributors:  Inigo Quiles

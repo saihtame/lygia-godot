@@ -1,6 +1,6 @@
-#include "triangle.glsl"
-#include "normal.glsl"
-#include "closestPoint.glsl"
+#include "res://triangle.glsl"
+#include "res://normal.glsl"
+#include "res://closestPoint.glsl"
 
 /*
 contributors: 

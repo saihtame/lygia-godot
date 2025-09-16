@@ -1,4 +1,4 @@
-#include "../envMap.glsl"
+#include "res://envMap.glsl"
 
 /*
 contributors:  The Art Of Code

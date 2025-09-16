@@ -1,5 +1,5 @@
-#include "space/rgb2yiq.glsl"
-#include "space/yiq2rgb.glsl"
+#include "res://space/rgb2yiq.glsl"
+#include "res://space/yiq2rgb.glsl"
 
 /*
 contributors:

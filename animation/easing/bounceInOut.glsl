@@ -1,4 +1,4 @@
-#include "bounceOut.glsl"
+#include "res://bounceOut.glsl"
 
 /*
 contributors: Hugh Kennedy (https://github.com/hughsk)

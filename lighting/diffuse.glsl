@@ -1,7 +1,7 @@
-#include "shadingData/new.glsl"
-#include "diffuse/lambert.glsl"
-#include "diffuse/orenNayar.glsl"
-#include "diffuse/burley.glsl"
+#include "res://shadingData/new.glsl"
+#include "res://diffuse/lambert.glsl"
+#include "res://diffuse/orenNayar.glsl"
+#include "res://diffuse/burley.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

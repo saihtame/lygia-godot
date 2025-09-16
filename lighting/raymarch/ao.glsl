@@ -1,5 +1,5 @@
-#include "map.glsl"
-#include "../../math/saturate.glsl"
+#include "res://map.glsl"
+#include "res://math/saturate.glsl"
 
 /*
 contributors:  Inigo Quiles

@@ -1,12 +1,12 @@
-#include "shadingData/new.glsl"
-#include "material/roughness.glsl"
-#include "material/normal.glsl"
-#include "material/albedo.glsl"
-#include "material.glsl"
-#include "light/new.glsl"
-#include "specular.glsl"
-#include "diffuse.glsl"
-#include "reflection.glsl"
+#include "res://shadingData/new.glsl"
+#include "res://material/roughness.glsl"
+#include "res://material/normal.glsl"
+#include "res://material/albedo.glsl"
+#include "res://material.glsl"
+#include "res://light/new.glsl"
+#include "res://specular.glsl"
+#include "res://diffuse.glsl"
+#include "res://reflection.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

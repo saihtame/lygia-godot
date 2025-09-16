@@ -1,4 +1,4 @@
-#include "../../sample/clamp2edge.glsl"
+#include "res://sample/clamp2edge.glsl"
 
 /*
 contributors: Brad Larson

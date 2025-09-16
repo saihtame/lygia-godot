@@ -1,4 +1,4 @@
-#include "rectSDF.glsl"
+#include "res://rectSDF.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

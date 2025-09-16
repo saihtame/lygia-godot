@@ -1,4 +1,4 @@
-#include "../common/beckmann.glsl"
+#include "res://common/beckmann.glsl"
 
 #ifndef FNC_SPECULAR_BECKMANN
 #define FNC_SPECULAR_BECKMANN

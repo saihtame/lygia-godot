@@ -1,5 +1,5 @@
-#include "rgb2hcv.glsl"
-#include "hue2rgb.glsl"
+#include "res://rgb2hcv.glsl"
+#include "res://hue2rgb.glsl"
 
 /*
 contributors: ["David Schaeffer", "tobspr", "Patricio Gonzalez Vivo"]

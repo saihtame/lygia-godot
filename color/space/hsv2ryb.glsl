@@ -1,6 +1,6 @@
-#include "hsv2rgb.glsl"
-#include "rgb2ryb.glsl"
-#include "ryb2rgb.glsl"
+#include "res://hsv2rgb.glsl"
+#include "res://rgb2ryb.glsl"
+#include "res://ryb2rgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

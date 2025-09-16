@@ -1,4 +1,4 @@
-#include "../math/saturate.glsl"
+#include "res://math/saturate.glsl"
 /*
 contributors: Patricio Gonzalez Vivo
 description: Convert diffuse/specular/glossiness workflow to PBR metallic factor

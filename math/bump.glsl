@@ -1,4 +1,4 @@
-#include "saturate.glsl"
+#include "res://saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

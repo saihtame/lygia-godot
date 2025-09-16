@@ -1,5 +1,5 @@
-#include "triangle.glsl"
-#include "barycentric.glsl"
+#include "res://triangle.glsl"
+#include "res://barycentric.glsl"
 
 /*
 contributors: 

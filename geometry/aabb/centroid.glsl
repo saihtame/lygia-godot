@@ -1,4 +1,4 @@
-#include "aabb.glsl"
+#include "res://aabb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

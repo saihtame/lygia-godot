@@ -1,5 +1,5 @@
-#include "sqTile.glsl"
-#include "../math/mirror.glsl"
+#include "res://sqTile.glsl"
+#include "res://math/mirror.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,5 +1,5 @@
-#include "../math/saturate.glsl"
-#include "../sampler.glsl"
+#include "res://math/saturate.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors:
@@ -38,7 +38,7 @@ license:
 #endif
 #endif
 
-#include "../sample/2DCube.glsl"
+#include "res://sample/2DCube.glsl"
 vec4 lut(in SAMPLER_TYPE tex_lut, in vec4 color, in int offset) { 
     return sample2DCube(tex_lut, color.rgb); 
 }

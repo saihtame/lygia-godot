@@ -1,5 +1,5 @@
-#include "../space/rgb2hsv.glsl"
-#include "../space/hsv2rgb.glsl"
+#include "res://space/rgb2hsv.glsl"
+#include "res://space/hsv2rgb.glsl"
 
 /*
 contributors: Romain Dura

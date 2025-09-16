@@ -1,5 +1,5 @@
 
-#include "line.glsl"
+#include "res://line.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

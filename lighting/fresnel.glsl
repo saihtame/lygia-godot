@@ -1,8 +1,8 @@
-#include "common/schlick.glsl"
+#include "res://common/schlick.glsl"
 
-#include "../math/pow5.glsl"
-#include "../math/const.glsl"
-#include "../math/saturate.glsl"
+#include "res://math/pow5.glsl"
+#include "res://math/const.glsl"
+#include "res://math/saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

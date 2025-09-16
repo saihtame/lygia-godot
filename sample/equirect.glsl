@@ -1,10 +1,10 @@
-#include "../space/xyz2equirect.glsl"
-#include "../generative/random.glsl"
-#include "../generative/srandom.glsl"
-#include "../sampler.glsl"
+#include "res://space/xyz2equirect.glsl"
+#include "res://generative/random.glsl"
+#include "res://generative/srandom.glsl"
+#include "res://sampler.glsl"
 
-#include "../color/space/linear2gamma.glsl"
-#include "../color/space/gamma2linear.glsl"
+#include "res://color/space/linear2gamma.glsl"
+#include "res://color/space/gamma2linear.glsl"
 /*
 contributors: Patricio Gonzalez Vivo
 description: sample an equirect texture as it was a cubemap

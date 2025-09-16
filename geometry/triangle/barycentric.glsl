@@ -1,5 +1,5 @@
-#include "triangle.glsl"
-#include "area.glsl"
+#include "res://triangle.glsl"
+#include "res://area.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

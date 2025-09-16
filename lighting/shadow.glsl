@@ -1,4 +1,4 @@
-#include "../sample/shadowPCF.glsl"
+#include "res://sample/shadowPCF.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

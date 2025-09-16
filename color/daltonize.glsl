@@ -1,5 +1,5 @@
-#include "space/rgb2lms.glsl"
-#include "space/lms2rgb.glsl"
+#include "res://space/rgb2lms.glsl"
+#include "res://space/lms2rgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

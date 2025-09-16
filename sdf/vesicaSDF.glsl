@@ -1,4 +1,4 @@
-#include "circleSDF.glsl"
+#include "res://circleSDF.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,5 +1,5 @@
-#include "../math/saturate.glsl"
-#include "../lighting/material.glsl"
+#include "res://math/saturate.glsl"
+#include "res://lighting/material.glsl"
 
 /*
 contributors:  Inigo Quiles

@@ -1,6 +1,6 @@
-#include "../math/powFast.glsl"
-#include "../sample/triplanar.glsl"
-#include "material/shininess.glsl"
+#include "res://math/powFast.glsl"
+#include "res://sample/triplanar.glsl"
+#include "res://material/shininess.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

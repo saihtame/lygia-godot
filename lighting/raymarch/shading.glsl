@@ -1,9 +1,9 @@
-#include "normal.glsl"
-#include "cast.glsl"
-#include "ao.glsl"
-#include "softShadow.glsl"
-#include "../shadingData/new.glsl"
-#include "../../math/saturate.glsl"
+#include "res://normal.glsl"
+#include "res://cast.glsl"
+#include "res://ao.glsl"
+#include "res://softShadow.glsl"
+#include "res://shadingData/new.glsl"
+#include "res://math/saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

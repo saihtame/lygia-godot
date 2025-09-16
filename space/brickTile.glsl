@@ -1,4 +1,4 @@
-#include "sqTile.glsl"
+#include "res://sqTile.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,7 +1,7 @@
-#include "fresnel.glsl"
-#include "envMap.glsl"
-#include "../math/const.glsl"
-#include "../lighting/ior.glsl"
+#include "res://fresnel.glsl"
+#include "res://envMap.glsl"
+#include "res://math/const.glsl"
+#include "res://lighting/ior.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

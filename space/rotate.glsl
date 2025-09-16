@@ -1,5 +1,5 @@
-#include "../math/rotate2d.glsl"
-#include "../math/rotate4d.glsl"
+#include "res://math/rotate2d.glsl"
+#include "res://math/rotate4d.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,5 +1,5 @@
-#include "map.glsl"
-#include "../material/new.glsl"
+#include "res://map.glsl"
+#include "res://material/new.glsl"
 
 /*
 contributors:  Inigo Quiles

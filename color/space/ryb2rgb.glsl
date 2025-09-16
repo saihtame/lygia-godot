@@ -1,6 +1,6 @@
-#include "../../math/mmin.glsl"
-#include "../../math/mmax.glsl"
-#include "../../math/cubicMix.glsl"
+#include "res://math/mmin.glsl"
+#include "res://math/mmax.glsl"
+#include "res://math/cubicMix.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

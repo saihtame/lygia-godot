@@ -1,5 +1,5 @@
-#include "../../math/powFast.glsl"
-#include "../toShininess.glsl"
+#include "res://math/powFast.glsl"
+#include "res://toShininess.glsl"
 
 #ifndef SPECULAR_POW
 #if defined(TARGET_MOBILE) || defined(PLATFORM_RPI) || defined(PLATFORM_WEBGL)

@@ -1,12 +1,12 @@
-#include "tonemap/aces.glsl"
-#include "tonemap/debug.glsl"
-#include "tonemap/filmic.glsl"
-#include "tonemap/linear.glsl"
-#include "tonemap/reinhard.glsl"
-#include "tonemap/reinhardJodie.glsl"
-#include "tonemap/uncharted.glsl"
-#include "tonemap/uncharted2.glsl"
-#include "tonemap/unreal.glsl"
+#include "res://tonemap/aces.glsl"
+#include "res://tonemap/debug.glsl"
+#include "res://tonemap/filmic.glsl"
+#include "res://tonemap/linear.glsl"
+#include "res://tonemap/reinhard.glsl"
+#include "res://tonemap/reinhardJodie.glsl"
+#include "res://tonemap/uncharted.glsl"
+#include "res://tonemap/uncharted2.glsl"
+#include "res://tonemap/unreal.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,4 +1,4 @@
-#include "../color/space/w2rgb.glsl"
+#include "res://color/space/w2rgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

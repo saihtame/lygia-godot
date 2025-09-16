@@ -1,7 +1,7 @@
 
-#include "space/ryb2rgb.glsl"
-#include "space/rgb2ryb.glsl"
-#include "../math/sum.glsl"
+#include "res://space/ryb2rgb.glsl"
+#include "res://space/rgb2ryb.glsl"
+#include "res://math/sum.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

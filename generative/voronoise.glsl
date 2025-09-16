@@ -1,5 +1,5 @@
-#include "../math/const.glsl"
-#include "random.glsl"
+#include "res://math/const.glsl"
+#include "res://random.glsl"
 
 /*
 contributors: Inigo Quiles

@@ -1,5 +1,5 @@
-#include "length.glsl"
-#include "div.glsl"
+#include "res://length.glsl"
+#include "res://div.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

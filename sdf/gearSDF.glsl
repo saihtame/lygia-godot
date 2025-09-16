@@ -1,4 +1,4 @@
-#include "../math/map.glsl"
+#include "res://math/map.glsl"
 
 /*
 contributors: Kathy McGuiness

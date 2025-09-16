@@ -1,5 +1,5 @@
-#include "linearDodge.glsl"
-#include "linearBurn.glsl"
+#include "res://linearDodge.glsl"
+#include "res://linearBurn.glsl"
 
 /*
 contributors: Jamie Owen

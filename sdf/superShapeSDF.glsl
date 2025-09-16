@@ -1,4 +1,4 @@
-#include "../space/cart2polar.glsl"
+#include "res://space/cart2polar.glsl"
 
 /*
 contributors: Kathy McGuiness

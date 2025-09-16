@@ -1,6 +1,6 @@
-#include "type.glsl"
-#include "2mat3.glsl"
-#include "../toMat4.glsl"
+#include "res://type.glsl"
+#include "res://2mat3.glsl"
+#include "res://toMat4.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -14,9 +14,9 @@ license:
     - Copyright (c) 2021 Patricio Gonzalez Vivo under Patron License - https://lygia.xyz/license
 */
 
-#include "../specular.glsl"
-#include "../diffuse.glsl"
-#include "falloff.glsl"
+#include "res://specular.glsl"
+#include "res://diffuse.glsl"
+#include "res://falloff.glsl"
 
 #ifndef FNC_LIGHT_POINT
 #define FNC_LIGHT_POINT

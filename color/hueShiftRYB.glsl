@@ -1,6 +1,6 @@
-#include "hueShift.glsl"
-#include "space/rgb2ryb.glsl"
-#include "space/ryb2rgb.glsl"
+#include "res://hueShift.glsl"
+#include "res://space/rgb2ryb.glsl"
+#include "res://space/ryb2rgb.glsl"
 
 /*
 contributors:

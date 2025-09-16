@@ -1,4 +1,4 @@
-#include "map.glsl"
+#include "res://map.glsl"
 
 /*
 contributors:  Inigo Quiles

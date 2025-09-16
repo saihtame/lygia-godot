@@ -1,4 +1,4 @@
-#include "digits.glsl"
+#include "res://digits.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

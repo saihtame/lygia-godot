@@ -1,4 +1,4 @@
-#include "../../math/pow5.glsl"
+#include "res://math/pow5.glsl"
 
 #ifndef FNC_SCHLICK
 #define FNC_SCHLICK

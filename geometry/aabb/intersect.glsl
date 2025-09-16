@@ -1,5 +1,5 @@
-#include "aabb.glsl"
-#include "../../lighting/ray.glsl"
+#include "res://aabb.glsl"
+#include "res://lighting/ray.glsl"
 
 /*
 contributors: Dominik Schmid 

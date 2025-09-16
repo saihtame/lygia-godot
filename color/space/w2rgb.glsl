@@ -1,4 +1,4 @@
-#include "../palette/spectral.glsl"
+#include "res://palette/spectral.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

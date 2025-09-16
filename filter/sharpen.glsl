@@ -1,4 +1,4 @@
-#include "../sampler.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo
@@ -31,9 +31,9 @@ license:
 #define SHARPEN_FNC sharpenFast
 #endif
 
-#include "sharpen/fast.glsl"
-#include "sharpen/adaptive.glsl"
-#include "sharpen/contrastAdaptive.glsl"
+#include "res://sharpen/fast.glsl"
+#include "res://sharpen/adaptive.glsl"
+#include "res://sharpen/contrastAdaptive.glsl"
 
 #ifndef FNC_SHARPEN
 #define FNC_SHARPEN

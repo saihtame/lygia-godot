@@ -1,8 +1,8 @@
-#include "nearest.glsl"
-#include "../color/dither.glsl"
+#include "res://nearest.glsl"
+#include "res://color/dither.glsl"
 
-#include "../color/space/gamma2linear.glsl"
-#include "../color/space/linear2gamma.glsl"
+#include "res://color/space/gamma2linear.glsl"
+#include "res://color/space/linear2gamma.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

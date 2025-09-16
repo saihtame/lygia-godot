@@ -1,7 +1,7 @@
-#include "../space/depth2viewZ.glsl"
-#include "../space/screen2viewPosition.glsl"
+#include "res://space/depth2viewZ.glsl"
+#include "res://space/screen2viewPosition.glsl"
 
-#include "../sampler.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

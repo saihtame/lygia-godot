@@ -1,5 +1,5 @@
-#include "digits.glsl"
-#include "../sample/nearest.glsl"
+#include "res://digits.glsl"
+#include "res://sample/nearest.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

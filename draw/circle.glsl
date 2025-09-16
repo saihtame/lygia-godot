@@ -1,8 +1,8 @@
 
-#include "../sdf/circleSDF.glsl"
+#include "res://sdf/circleSDF.glsl"
 
-#include "fill.glsl"
-#include "stroke.glsl"
+#include "res://fill.glsl"
+#include "res://stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,5 +1,5 @@
-#include "xyz2rgb.glsl"
-#include "rgb2srgb.glsl"
+#include "res://xyz2rgb.glsl"
+#include "res://rgb2srgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

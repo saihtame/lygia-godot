@@ -1,4 +1,4 @@
-#include "../ray.glsl"
+#include "res://ray.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

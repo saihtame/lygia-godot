@@ -1,4 +1,4 @@
-#include "../common/schlick.glsl"
+#include "res://common/schlick.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

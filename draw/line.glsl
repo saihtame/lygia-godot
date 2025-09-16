@@ -1,5 +1,5 @@
-#include "../sdf/lineSDF.glsl"
-#include "fill.glsl"
+#include "res://sdf/lineSDF.glsl"
+#include "res://fill.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

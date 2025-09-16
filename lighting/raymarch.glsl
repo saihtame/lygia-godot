@@ -1,12 +1,12 @@
-#include "../math/toMat3.glsl"
-#include "../math/const.glsl"
-#include "../space/rotate.glsl"
-#include "../space/lookAtView.glsl"
-#include "raymarch/render.glsl"
-#include "raymarch/volume.glsl"
-#include "material/zero.glsl"
-#include "material/add.glsl"
-#include "material/multiply.glsl"
+#include "res://math/toMat3.glsl"
+#include "res://math/const.glsl"
+#include "res://space/rotate.glsl"
+#include "res://space/lookAtView.glsl"
+#include "res://raymarch/render.glsl"
+#include "res://raymarch/volume.glsl"
+#include "res://material/zero.glsl"
+#include "res://material/add.glsl"
+#include "res://material/multiply.glsl"
 
 /*
 contributors:  [Inigo Quiles, Shadi El Hajj, Patricio Gonzalez Vivo]

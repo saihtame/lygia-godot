@@ -1,8 +1,8 @@
-#include "space/rgb2lab.glsl"
-#include "space/rgb2YCbCr.glsl"
-#include "space/rgb2YPbPr.glsl"
-#include "space/rgb2yuv.glsl"
-#include "space/rgb2oklab.glsl"
+#include "res://space/rgb2lab.glsl"
+#include "res://space/rgb2YCbCr.glsl"
+#include "res://space/rgb2YPbPr.glsl"
+#include "res://space/rgb2yuv.glsl"
+#include "res://space/rgb2oklab.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

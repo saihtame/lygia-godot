@@ -1,4 +1,4 @@
-#include "../math/inverse.glsl"
+#include "res://math/inverse.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

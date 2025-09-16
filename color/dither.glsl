@@ -18,12 +18,12 @@ license:
     - Copyright (c) 2021 Patricio Gonzalez Vivo under Patron License - https://lygia.xyz/license
 */
 
-#include "dither/interleavedGradientNoise.glsl"
-#include "dither/vlachos.glsl"
-#include "dither/triangleNoise.glsl"
-#include "dither/blueNoise.glsl"
-#include "dither/shift.glsl"
-#include "dither/bayer.glsl"
+#include "res://dither/interleavedGradientNoise.glsl"
+#include "res://dither/vlachos.glsl"
+#include "res://dither/triangleNoise.glsl"
+#include "res://dither/blueNoise.glsl"
+#include "res://dither/shift.glsl"
+#include "res://dither/bayer.glsl"
 
 #ifndef DITHER_FNC
 #ifdef TARGET_MOBILE

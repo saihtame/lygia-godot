@@ -1,5 +1,5 @@
-#include "random.glsl"
-#include "../math/rotate2d.glsl"
+#include "res://random.glsl"
+#include "res://math/rotate2d.glsl"
 
 /*
 contributors: Martijn Steinrucken

@@ -1,4 +1,4 @@
-#include "../sampler.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo
@@ -30,9 +30,9 @@ license:
 #define BOXBLUR_SAMPLER_FNC(TEX, UV) SAMPLER_FNC(TEX, UV)
 #endif
 
-#include "boxBlur/1D.glsl"
-#include "boxBlur/2D.glsl"
-#include "boxBlur/2D_fast9.glsl"
+#include "res://boxBlur/1D.glsl"
+#include "res://boxBlur/2D.glsl"
+#include "res://boxBlur/2D_fast9.glsl"
 
 #ifndef FNC_BOXBLUR
 #define FNC_BOXBLUR

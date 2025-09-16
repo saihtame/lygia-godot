@@ -1,4 +1,4 @@
-#include "stroke.glsl"
+#include "res://stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

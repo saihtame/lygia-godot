@@ -1,4 +1,4 @@
-#include "hue2rgb.glsl"
+#include "res://hue2rgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

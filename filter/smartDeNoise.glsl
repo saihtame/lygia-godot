@@ -17,8 +17,8 @@ license: |
     All rights reserved.
 */
 
-#include "../sampler.glsl"
-#include "../math/const.glsl"
+#include "res://sampler.glsl"
+#include "res://math/const.glsl"
 
 #ifndef SMARTDENOISE_TYPE
 #define SMARTDENOISE_TYPE vec4

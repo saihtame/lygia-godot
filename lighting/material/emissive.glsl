@@ -1,5 +1,5 @@
-#include "../../color/space/gamma2linear.glsl"
-#include "../../sampler.glsl"
+#include "res://color/space/gamma2linear.glsl"
+#include "res://sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

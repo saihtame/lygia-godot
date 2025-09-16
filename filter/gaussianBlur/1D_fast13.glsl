@@ -1,4 +1,4 @@
-#include "../../sample/clamp2edge.glsl"
+#include "res://sample/clamp2edge.glsl"
 
 /*
 function: gaussianBlur1D_fast13

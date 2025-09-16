@@ -1,8 +1,8 @@
-#include "../math/saturate.glsl"
-#include "../space/linearizeDepth.glsl"
-#include "../space/depth2viewZ.glsl"
-#include "../sampler.glsl"
-#include "../generative/random.glsl"
+#include "res://math/saturate.glsl"
+#include "res://space/linearizeDepth.glsl"
+#include "res://space/depth2viewZ.glsl"
+#include "res://sampler.glsl"
+#include "res://generative/random.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo
