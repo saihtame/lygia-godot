@@ -1,6 +1,6 @@
-#include "res://color/palette/hue.glsl"
-#include "res://color/space/w2rgb.glsl"
-#include "res://color/space/gamma2linear.glsl"
+#include "res://addons/lygia_godot/color/palette/hue.glsl"
+#include "res://addons/lygia_godot/color/space/w2rgb.glsl"
+#include "res://addons/lygia_godot/color/space/gamma2linear.glsl"
 
 /*
 contributors: Paniq

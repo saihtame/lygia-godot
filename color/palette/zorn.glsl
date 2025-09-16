@@ -1,4 +1,4 @@
-#include "res://pigments.glsl"
+#include "res://addons/lygia_godot/pigments.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

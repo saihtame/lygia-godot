@@ -6,6 +6,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "res://exponentialIn.glsl"
-#include "res://exponentialOut.glsl"
-#include "res://exponentialInOut.glsl"
+#include "res://addons/lygia_godot/exponentialIn.glsl"
+#include "res://addons/lygia_godot/exponentialOut.glsl"
+#include "res://addons/lygia_godot/exponentialInOut.glsl"

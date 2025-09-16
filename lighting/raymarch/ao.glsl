@@ -1,5 +1,5 @@
-#include "res://map.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/map.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 /*
 contributors:  Inigo Quiles

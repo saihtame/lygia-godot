@@ -1,4 +1,4 @@
-#include "res://srandom.glsl"
+#include "res://addons/lygia_godot/srandom.glsl"
 
 /*
 contributors: Inigo Quilez

@@ -5,14 +5,14 @@ use: void lightIBLEvaluate(<Material> mat, inout <ShadingData> shadingData)
 license: MIT License (MIT) Copyright (c) 2024 Shadi El Hajj
 */
 
-#include "res://envMap.glsl"
-#include "res://fresnelReflection.glsl"
-#include "res://sphericalHarmonics.glsl"
-#include "res://specular/importanceSampling.glsl"
-#include "res://reflection.glsl"
-#include "res://common/specularAO.glsl"
-#include "res://common/envBRDFApprox.glsl"
-#include "res://color/tonemap.glsl"
+#include "res://addons/lygia_godot/envMap.glsl"
+#include "res://addons/lygia_godot/fresnelReflection.glsl"
+#include "res://addons/lygia_godot/sphericalHarmonics.glsl"
+#include "res://addons/lygia_godot/specular/importanceSampling.glsl"
+#include "res://addons/lygia_godot/reflection.glsl"
+#include "res://addons/lygia_godot/common/specularAO.glsl"
+#include "res://addons/lygia_godot/common/envBRDFApprox.glsl"
+#include "res://addons/lygia_godot/color/tonemap.glsl"
 
 #ifndef IBL_LUMINANCE
 #define IBL_LUMINANCE   1.0

@@ -1,6 +1,6 @@
-#include "res://div.glsl"
-#include "res://conj.glsl"
-#include "res://lengthSq.glsl"
+#include "res://addons/lygia_godot/div.glsl"
+#include "res://addons/lygia_godot/conj.glsl"
+#include "res://addons/lygia_godot/lengthSq.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -6,12 +6,12 @@
 #define SPECULAR_FNC specularCookTorrance
 #endif
 
-#include "res://math/saturate.glsl"
-#include "res://shadingData/new.glsl"
-#include "res://material.glsl"
-#include "res://light/new.glsl"
-#include "res://light/resolve.glsl"
-#include "res://light/iblEvaluate.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/shadingData/new.glsl"
+#include "res://addons/lygia_godot/material.glsl"
+#include "res://addons/lygia_godot/light/new.glsl"
+#include "res://addons/lygia_godot/light/resolve.glsl"
+#include "res://addons/lygia_godot/light/iblEvaluate.glsl"
 
 /*
 contributors: [Patricio Gonzalez Vivo, Shadi El Hajj]

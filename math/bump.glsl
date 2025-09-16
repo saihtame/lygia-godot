@@ -1,4 +1,4 @@
-#include "res://saturate.glsl"
+#include "res://addons/lygia_godot/saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

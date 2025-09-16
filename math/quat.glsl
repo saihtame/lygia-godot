@@ -1,5 +1,5 @@
-#include "res://quat/mul.glsl"
-#include "res://quat/identity.glsl"
+#include "res://addons/lygia_godot/quat/mul.glsl"
+#include "res://addons/lygia_godot/quat/identity.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

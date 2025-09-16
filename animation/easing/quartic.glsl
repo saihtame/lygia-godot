@@ -6,6 +6,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "res://quarticIn.glsl"
-#include "res://quarticOut.glsl"
-#include "res://quarticInOut.glsl"
+#include "res://addons/lygia_godot/quarticIn.glsl"
+#include "res://addons/lygia_godot/quarticOut.glsl"
+#include "res://addons/lygia_godot/quarticInOut.glsl"

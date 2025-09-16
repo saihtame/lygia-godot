@@ -1,9 +1,9 @@
-#include "res://shadingData/new.glsl"
-#include "res://specular/phong.glsl"
-#include "res://specular/blinnPhong.glsl"
-#include "res://specular/cookTorrance.glsl"
-#include "res://specular/gaussian.glsl"
-#include "res://specular/beckmann.glsl"
+#include "res://addons/lygia_godot/shadingData/new.glsl"
+#include "res://addons/lygia_godot/specular/phong.glsl"
+#include "res://addons/lygia_godot/specular/blinnPhong.glsl"
+#include "res://addons/lygia_godot/specular/cookTorrance.glsl"
+#include "res://addons/lygia_godot/specular/gaussian.glsl"
+#include "res://addons/lygia_godot/specular/beckmann.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

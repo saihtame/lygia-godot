@@ -1,8 +1,8 @@
-#include "res://math/const.glsl"
-#include "res://sampler.glsl"
-#include "res://sample/nearest.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
+#include "res://addons/lygia_godot/sample/nearest.glsl"
 
-#include "res://generative/random.glsl"
+#include "res://addons/lygia_godot/generative/random.glsl"
 
 /*
 contributors:

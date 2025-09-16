@@ -1,5 +1,5 @@
-#include "res://random.glsl"
-#include "res://math/rotate2d.glsl"
+#include "res://addons/lygia_godot/random.glsl"
+#include "res://addons/lygia_godot/math/rotate2d.glsl"
 
 /*
 contributors: Martijn Steinrucken

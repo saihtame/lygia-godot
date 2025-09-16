@@ -1,17 +1,17 @@
-#include "res://math/const.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 // Stars deps
-#include "res://math/mod2.glsl"
-#include "res://math/rotate3dX.glsl"
-#include "res://math/rotate3dZ.glsl"
-#include "res://space/cart2polar.glsl"
-#include "res://color/space/k2rgb.glsl"
-#include "res://generative/random.glsl"
+#include "res://addons/lygia_godot/math/mod2.glsl"
+#include "res://addons/lygia_godot/math/rotate3dX.glsl"
+#include "res://addons/lygia_godot/math/rotate3dZ.glsl"
+#include "res://addons/lygia_godot/space/cart2polar.glsl"
+#include "res://addons/lygia_godot/color/space/k2rgb.glsl"
+#include "res://addons/lygia_godot/generative/random.glsl"
 
-#include "res://ray.glsl"
-#include "res://common/rayleigh.glsl"
-#include "res://common/henyeyGreenstein.glsl"
+#include "res://addons/lygia_godot/ray.glsl"
+#include "res://addons/lygia_godot/common/rayleigh.glsl"
+#include "res://addons/lygia_godot/common/henyeyGreenstein.glsl"
 
 /*
 contributor: Patricio Gonzalez Vivo

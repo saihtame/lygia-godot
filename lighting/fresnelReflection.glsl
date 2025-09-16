@@ -1,7 +1,7 @@
-#include "res://fresnel.glsl"
-#include "res://envMap.glsl"
-#include "res://math/const.glsl"
-#include "res://lighting/ior.glsl"
+#include "res://addons/lygia_godot/fresnel.glsl"
+#include "res://addons/lygia_godot/envMap.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/lighting/ior.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

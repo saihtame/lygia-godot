@@ -1,6 +1,6 @@
-#include "res://math/powFast.glsl"
-#include "res://sample/triplanar.glsl"
-#include "res://material/shininess.glsl"
+#include "res://addons/lygia_godot/math/powFast.glsl"
+#include "res://addons/lygia_godot/sample/triplanar.glsl"
+#include "res://addons/lygia_godot/material/shininess.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

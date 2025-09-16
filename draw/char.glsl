@@ -1,4 +1,4 @@
-#include "res://math/modi.glsl"
+#include "res://addons/lygia_godot/math/modi.glsl"
 
 /*
 contributors: ['Tim Gfrerer', 'Patricio Gonzalez Vivo']

@@ -1,5 +1,5 @@
-#include "res://math/const.glsl"
-#include "res://random.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/random.glsl"
 
 /*
 contributors: Inigo Quiles

@@ -1,5 +1,5 @@
-#include "res://sample/clamp2edge.glsl"
-#include "res://math/gaussian.glsl"
+#include "res://addons/lygia_godot/sample/clamp2edge.glsl"
+#include "res://addons/lygia_godot/math/gaussian.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

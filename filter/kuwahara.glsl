@@ -1,4 +1,4 @@
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: [Brad Larson, Ben Cochran, Hugues Lismonde, Keitaroh Kobayashi, Alaric Cole, Matthew Clark, Jacob Gundersen, Chris Williams.]

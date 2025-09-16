@@ -8,8 +8,8 @@
 // #define PYRAMID_H2 1.0
 // #define PYRAMID_G  0.547, 0.175
 
-#include "res://pyramid/downscale.glsl"
-#include "res://pyramid/upscale.glsl"
+#include "res://addons/lygia_godot/pyramid/downscale.glsl"
+#include "res://addons/lygia_godot/pyramid/upscale.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

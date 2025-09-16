@@ -1,4 +1,4 @@
-#include "res://const.glsl"
+#include "res://addons/lygia_godot/const.glsl"
 
 /*
 contributors: Inigo Quiles

@@ -1,4 +1,4 @@
-#include "res://math/inverse.glsl"
+#include "res://addons/lygia_godot/math/inverse.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

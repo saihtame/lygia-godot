@@ -1,4 +1,4 @@
-#include "res://digits.glsl"
+#include "res://addons/lygia_godot/digits.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

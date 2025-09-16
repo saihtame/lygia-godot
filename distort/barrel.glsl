@@ -1,5 +1,5 @@
-#include "res://math/lengthSq.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/lengthSq.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

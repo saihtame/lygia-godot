@@ -1,4 +1,4 @@
-#include "res://lygia/generative/random.glsl"
+#include "res://addons/lygia_godot/lygia/generative/random.glsl"
 
 /*
 contributors: [Morgan McGuire, Chris Wyman]

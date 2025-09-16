@@ -1,4 +1,4 @@
-#include "res://palette/spectral.glsl"
+#include "res://addons/lygia_godot/palette/spectral.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

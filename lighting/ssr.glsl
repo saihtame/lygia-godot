@@ -1,8 +1,8 @@
 
-#include "res://space/view2screenPosition.glsl"
-#include "res://sdf/lineSDF.glsl"
-#include "res://sdf/planeSDF.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/space/view2screenPosition.glsl"
+#include "res://addons/lygia_godot/sdf/lineSDF.glsl"
+#include "res://addons/lygia_godot/sdf/planeSDF.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

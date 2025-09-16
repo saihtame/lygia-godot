@@ -1,5 +1,5 @@
-#include "res://oklab2rgb.glsl"
-#include "res://rgb2srgb.glsl"
+#include "res://addons/lygia_godot/oklab2rgb.glsl"
+#include "res://addons/lygia_godot/rgb2srgb.glsl"
 
 /*
 contributors: Bjorn Ottosson (@bjornornorn)

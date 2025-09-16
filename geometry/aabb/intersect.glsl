@@ -1,5 +1,5 @@
-#include "res://aabb.glsl"
-#include "res://lighting/ray.glsl"
+#include "res://addons/lygia_godot/aabb.glsl"
+#include "res://addons/lygia_godot/lighting/ray.glsl"
 
 /*
 contributors: Dominik Schmid 

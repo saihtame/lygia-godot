@@ -1,6 +1,6 @@
-#include "res://hueShift.glsl"
-#include "res://space/rgb2ryb.glsl"
-#include "res://space/ryb2rgb.glsl"
+#include "res://addons/lygia_godot/hueShift.glsl"
+#include "res://addons/lygia_godot/space/rgb2ryb.glsl"
+#include "res://addons/lygia_godot/space/ryb2rgb.glsl"
 
 /*
 contributors:

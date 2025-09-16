@@ -1,5 +1,5 @@
-#include "res://random.glsl"
-#include "res://math/dist.glsl"
+#include "res://addons/lygia_godot/random.glsl"
+#include "res://addons/lygia_godot/math/dist.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

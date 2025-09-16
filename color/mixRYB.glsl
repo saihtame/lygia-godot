@@ -1,7 +1,7 @@
 
-#include "res://space/ryb2rgb.glsl"
-#include "res://space/rgb2ryb.glsl"
-#include "res://math/sum.glsl"
+#include "res://addons/lygia_godot/space/ryb2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2ryb.glsl"
+#include "res://addons/lygia_godot/math/sum.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

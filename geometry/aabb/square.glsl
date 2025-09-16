@@ -1,4 +1,4 @@
-#include "res://diagonal.glsl"
+#include "res://addons/lygia_godot/diagonal.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

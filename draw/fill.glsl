@@ -1,4 +1,4 @@
-#include "res://math/aastep.glsl"
+#include "res://addons/lygia_godot/math/aastep.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,5 +1,5 @@
 
-#include "res://line.glsl"
+#include "res://addons/lygia_godot/line.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

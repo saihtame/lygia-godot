@@ -1,6 +1,6 @@
-#include "res://hsv2rgb.glsl"
-#include "res://rgb2ryb.glsl"
-#include "res://ryb2rgb.glsl"
+#include "res://addons/lygia_godot/hsv2rgb.glsl"
+#include "res://addons/lygia_godot/rgb2ryb.glsl"
+#include "res://addons/lygia_godot/ryb2rgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

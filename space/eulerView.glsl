@@ -5,10 +5,10 @@ use: <mat4> eulerView(in <vec3> position, in <vec3> euler)
 license: MIT License (MIT) Copyright (c) 2024 Shadi EL Hajj
 */
 
-#include "res://math/rotate3dX.glsl"
-#include "res://math/rotate3dY.glsl"
-#include "res://math/rotate3dZ.glsl"
-#include "res://translate.glsl"
+#include "res://addons/lygia_godot/math/rotate3dX.glsl"
+#include "res://addons/lygia_godot/math/rotate3dY.glsl"
+#include "res://addons/lygia_godot/math/rotate3dZ.glsl"
+#include "res://addons/lygia_godot/translate.glsl"
 
 #ifndef FNC_EULERVIEW
 #define FNC_EULERVIEW

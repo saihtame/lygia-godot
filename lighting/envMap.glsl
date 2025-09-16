@@ -1,9 +1,9 @@
-#include "res://sample/equirect.glsl"
-#include "res://material/new.glsl"
-#include "res://shadingData/new.glsl"
+#include "res://addons/lygia_godot/sample/equirect.glsl"
+#include "res://addons/lygia_godot/material/new.glsl"
+#include "res://addons/lygia_godot/shadingData/new.glsl"
 
-#include "res://fakeCube.glsl"
-#include "res://toShininess.glsl"
+#include "res://addons/lygia_godot/fakeCube.glsl"
+#include "res://addons/lygia_godot/toShininess.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

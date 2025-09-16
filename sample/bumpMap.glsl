@@ -1,4 +1,4 @@
-#include "res://derivative.glsl"
+#include "res://addons/lygia_godot/derivative.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

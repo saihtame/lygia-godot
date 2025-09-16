@@ -1,5 +1,5 @@
-#include "res://map.glsl"
-#include "res://material/new.glsl"
+#include "res://addons/lygia_godot/map.glsl"
+#include "res://addons/lygia_godot/material/new.glsl"
 
 /*
 contributors:  Inigo Quiles

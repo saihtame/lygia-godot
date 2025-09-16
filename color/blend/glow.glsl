@@ -1,4 +1,4 @@
-#include "res://reflect.glsl"
+#include "res://addons/lygia_godot/reflect.glsl"
 
 /*
 contributors: Jamie Owen

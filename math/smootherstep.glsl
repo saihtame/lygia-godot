@@ -1,5 +1,5 @@
-#include "res://saturate.glsl"
-#include "res://quintic.glsl"
+#include "res://addons/lygia_godot/saturate.glsl"
+#include "res://addons/lygia_godot/quintic.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

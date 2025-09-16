@@ -1,5 +1,5 @@
 
-#include "res://aabb.glsl"
+#include "res://addons/lygia_godot/aabb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

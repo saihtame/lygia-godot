@@ -1,4 +1,4 @@
-#include "res://sample/shadowPCF.glsl"
+#include "res://addons/lygia_godot/sample/shadowPCF.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,4 +1,4 @@
-#include "res://math/bump.glsl"
+#include "res://addons/lygia_godot/math/bump.glsl"
 
 /*
 contributors: Alan Zucconi

@@ -1,5 +1,5 @@
-#include "res://blend.glsl"
-#include "res://composite/sourceOver.glsl"
+#include "res://addons/lygia_godot/blend.glsl"
+#include "res://addons/lygia_godot/composite/sourceOver.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo, Anton Marini

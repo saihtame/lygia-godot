@@ -1,4 +1,4 @@
-#include "res://math/decimate.glsl"
+#include "res://addons/lygia_godot/math/decimate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

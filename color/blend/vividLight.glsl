@@ -1,5 +1,5 @@
-#include "res://colorBurn.glsl"
-#include "res://colorDodge.glsl"
+#include "res://addons/lygia_godot/colorBurn.glsl"
+#include "res://addons/lygia_godot/colorDodge.glsl"
 
 /*
 contributors: Jamie Owen

@@ -1,6 +1,6 @@
-#include "res://triangle.glsl"
-#include "res://normal.glsl"
-#include "res://closestPoint.glsl"
+#include "res://addons/lygia_godot/triangle.glsl"
+#include "res://addons/lygia_godot/normal.glsl"
+#include "res://addons/lygia_godot/closestPoint.glsl"
 
 /*
 contributors: 

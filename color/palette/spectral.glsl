@@ -1,10 +1,10 @@
-#include "res://spectral/gems.glsl"
-#include "res://spectral/geoffrey.glsl"
-#include "res://spectral/soft.glsl"
-#include "res://spectral/zucconi.glsl"
-#include "res://spectral/zucconi6.glsl"
+#include "res://addons/lygia_godot/spectral/gems.glsl"
+#include "res://addons/lygia_godot/spectral/geoffrey.glsl"
+#include "res://addons/lygia_godot/spectral/soft.glsl"
+#include "res://addons/lygia_godot/spectral/zucconi.glsl"
+#include "res://addons/lygia_godot/spectral/zucconi6.glsl"
 
-#include "res://math/const.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
 
 /*
 contributors: Martijn Steinrucken

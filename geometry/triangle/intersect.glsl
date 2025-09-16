@@ -1,5 +1,5 @@
-#include "res://triangle.glsl"
-#include "res://lighting/ray.glsl"
+#include "res://addons/lygia_godot/triangle.glsl"
+#include "res://addons/lygia_godot/lighting/ray.glsl"
 
 /*
 contributors: Inigo Quiles

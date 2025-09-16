@@ -1,4 +1,4 @@
-#include "res://sample/clamp2edge.glsl"
+#include "res://addons/lygia_godot/sample/clamp2edge.glsl"
 
 /*
 function: gaussianBlur1D_fast13

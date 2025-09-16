@@ -3,55 +3,55 @@ description: Include all available color spaces conversions
 */
 
 // CMYK
-#include "res://space/cmyk2rgb.glsl"
-#include "res://space/rgb2cmyk.glsl"
+#include "res://addons/lygia_godot/space/cmyk2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2cmyk.glsl"
 
 // Gamma
-#include "res://space/gamma2linear.glsl"
-#include "res://space/linear2gamma.glsl"
+#include "res://addons/lygia_godot/space/gamma2linear.glsl"
+#include "res://addons/lygia_godot/space/linear2gamma.glsl"
 
 // HSV
-#include "res://space/hsv2rgb.glsl"
-#include "res://space/rgb2hsv.glsl"
+#include "res://addons/lygia_godot/space/hsv2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2hsv.glsl"
 
 // Kelvin
-#include "res://space/k2rgb.glsl"
+#include "res://addons/lygia_godot/space/k2rgb.glsl"
 
 // LAB
-#include "res://space/rgb2lab.glsl"
-#include "res://space/lab2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2lab.glsl"
+#include "res://addons/lygia_godot/space/lab2rgb.glsl"
 
 // LMS
-#include "res://space/rgb2lms.glsl"
-#include "res://space/lms2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2lms.glsl"
+#include "res://addons/lygia_godot/space/lms2rgb.glsl"
 
 // OkLab
-#include "res://space/oklab2rgb.glsl"
-#include "res://space/rgb2oklab.glsl"
+#include "res://addons/lygia_godot/space/oklab2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2oklab.glsl"
 
 // sRGB
-#include "res://space/srgb2rgb.glsl"
-#include "res://space/rgb2srgb.glsl"
+#include "res://addons/lygia_godot/space/srgb2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2srgb.glsl"
 
 // Wavelength
-#include "res://space/w2rgb.glsl"
+#include "res://addons/lygia_godot/space/w2rgb.glsl"
 
 // XYZ
-#include "res://space/rgb2xyz.glsl"
-#include "res://space/xyz2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2xyz.glsl"
+#include "res://addons/lygia_godot/space/xyz2rgb.glsl"
 
 // YCbCr
-#include "res://space/YCbCr2rgb.glsl"
-#include "res://space/rgb2YCbCr.glsl"
+#include "res://addons/lygia_godot/space/YCbCr2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2YCbCr.glsl"
 
 // YIQ
-#include "res://space/yiq2rgb.glsl"
-#include "res://space/rgb2yiq.glsl"
+#include "res://addons/lygia_godot/space/yiq2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2yiq.glsl"
 
 // YPbPr
-#include "res://space/YPbPr2rgb.glsl"
-#include "res://space/rgb2YPbPr.glsl"
+#include "res://addons/lygia_godot/space/YPbPr2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2YPbPr.glsl"
 
 // YUV
-#include "res://space/yuv2rgb.glsl"
-#include "res://space/rgb2yuv.glsl"
+#include "res://addons/lygia_godot/space/yuv2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2yuv.glsl"

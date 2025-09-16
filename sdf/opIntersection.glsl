@@ -1,5 +1,5 @@
-#include "res://math/saturate.glsl"
-#include "res://lighting/material.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/lighting/material.glsl"
 
 /*
 contributors:  Inigo Quiles

@@ -1,4 +1,4 @@
-#include "res://math/rotate4dX.glsl"
+#include "res://addons/lygia_godot/math/rotate4dX.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

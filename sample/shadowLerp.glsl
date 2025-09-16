@@ -1,4 +1,4 @@
-#include "res://shadow.glsl"
+#include "res://addons/lygia_godot/shadow.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

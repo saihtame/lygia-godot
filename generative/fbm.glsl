@@ -1,5 +1,5 @@
-#include "res://snoise.glsl"
-#include "res://gnoise.glsl"
+#include "res://addons/lygia_godot/snoise.glsl"
+#include "res://addons/lygia_godot/gnoise.glsl"
 
 
 /*

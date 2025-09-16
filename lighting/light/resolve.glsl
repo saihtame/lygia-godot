@@ -1,8 +1,8 @@
-#include "res://point.glsl"
-#include "res://pointEvaluate.glsl"
-#include "res://directional.glsl"
-#include "res://directionalEvaluate.glsl"
-#include "res://material.glsl"
+#include "res://addons/lygia_godot/point.glsl"
+#include "res://addons/lygia_godot/pointEvaluate.glsl"
+#include "res://addons/lygia_godot/directional.glsl"
+#include "res://addons/lygia_godot/directionalEvaluate.glsl"
+#include "res://addons/lygia_godot/material.glsl"
 
 #ifndef FNC_LIGHT_RESOLVE
 #define FNC_LIGHT_RESOLVE

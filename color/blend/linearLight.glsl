@@ -1,5 +1,5 @@
-#include "res://linearDodge.glsl"
-#include "res://linearBurn.glsl"
+#include "res://addons/lygia_godot/linearDodge.glsl"
+#include "res://addons/lygia_godot/linearBurn.glsl"
 
 /*
 contributors: Jamie Owen

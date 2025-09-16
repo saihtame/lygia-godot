@@ -1,4 +1,4 @@
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo
@@ -31,9 +31,9 @@ license:
 #define SHARPEN_FNC sharpenFast
 #endif
 
-#include "res://sharpen/fast.glsl"
-#include "res://sharpen/adaptive.glsl"
-#include "res://sharpen/contrastAdaptive.glsl"
+#include "res://addons/lygia_godot/sharpen/fast.glsl"
+#include "res://addons/lygia_godot/sharpen/adaptive.glsl"
+#include "res://addons/lygia_godot/sharpen/contrastAdaptive.glsl"
 
 #ifndef FNC_SHARPEN
 #define FNC_SHARPEN

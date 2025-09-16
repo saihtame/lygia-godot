@@ -1,4 +1,4 @@
-#include "res://circleSDF.glsl"
+#include "res://addons/lygia_godot/circleSDF.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

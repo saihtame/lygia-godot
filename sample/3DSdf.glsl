@@ -1,7 +1,7 @@
-#include "res://2DCube.glsl"
-#include "res://space/scale.glsl"
-#include "res://sdf/boxSDF.glsl"
-#include "res://sdf/opIntersection.glsl"
+#include "res://addons/lygia_godot/2DCube.glsl"
+#include "res://addons/lygia_godot/space/scale.glsl"
+#include "res://addons/lygia_godot/sdf/boxSDF.glsl"
+#include "res://addons/lygia_godot/sdf/opIntersection.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

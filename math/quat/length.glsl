@@ -1,4 +1,4 @@
-#include "res://lengthSq.glsl"
+#include "res://addons/lygia_godot/lengthSq.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

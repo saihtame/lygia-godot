@@ -1,4 +1,4 @@
-#include "res://math/map.glsl"
+#include "res://addons/lygia_godot/math/map.glsl"
 
 /*
 contributors: Kathy McGuiness

@@ -1,6 +1,6 @@
-#include "res://math/const.glsl"
-#include "res://rotate.glsl"
-#include "res://sqTile.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/rotate.glsl"
+#include "res://addons/lygia_godot/sqTile.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

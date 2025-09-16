@@ -1,9 +1,9 @@
-#include "res://space/scale.glsl"
-#include "res://color/palette/macbeth.glsl"
-#include "res://color/palette/spyder.glsl"
-#include "res://sdf/crossSDF.glsl"
-#include "res://rect.glsl"
-#include "res://stroke.glsl"
+#include "res://addons/lygia_godot/space/scale.glsl"
+#include "res://addons/lygia_godot/color/palette/macbeth.glsl"
+#include "res://addons/lygia_godot/color/palette/spyder.glsl"
+#include "res://addons/lygia_godot/sdf/crossSDF.glsl"
+#include "res://addons/lygia_godot/rect.glsl"
+#include "res://addons/lygia_godot/stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

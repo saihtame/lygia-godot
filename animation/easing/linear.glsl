@@ -6,6 +6,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "res://linearIn.glsl"
-#include "res://linearOut.glsl"
-#include "res://linearInOut.glsl"
+#include "res://addons/lygia_godot/linearIn.glsl"
+#include "res://addons/lygia_godot/linearOut.glsl"
+#include "res://addons/lygia_godot/linearInOut.glsl"

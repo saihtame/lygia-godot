@@ -1,16 +1,16 @@
-#include "res://math/powFast.glsl"
-#include "res://math/saturate.glsl"
-#include "res://color/tonemap.glsl"
+#include "res://addons/lygia_godot/math/powFast.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/color/tonemap.glsl"
 
-#include "res://shadow.glsl"
-#include "res://material.glsl"
-#include "res://fresnelReflection.glsl"
-#include "res://sphericalHarmonics.glsl"
+#include "res://addons/lygia_godot/shadow.glsl"
+#include "res://addons/lygia_godot/material.glsl"
+#include "res://addons/lygia_godot/fresnelReflection.glsl"
+#include "res://addons/lygia_godot/sphericalHarmonics.glsl"
 
-#include "res://ior.glsl"
-#include "res://envMap.glsl"
-#include "res://diffuse.glsl"
-#include "res://specular.glsl"
+#include "res://addons/lygia_godot/ior.glsl"
+#include "res://addons/lygia_godot/envMap.glsl"
+#include "res://addons/lygia_godot/diffuse.glsl"
+#include "res://addons/lygia_godot/specular.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

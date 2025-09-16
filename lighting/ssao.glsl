@@ -1,8 +1,8 @@
-#include "res://math/saturate.glsl"
-#include "res://space/linearizeDepth.glsl"
-#include "res://space/depth2viewZ.glsl"
-#include "res://sampler.glsl"
-#include "res://generative/random.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/space/linearizeDepth.glsl"
+#include "res://addons/lygia_godot/space/depth2viewZ.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
+#include "res://addons/lygia_godot/generative/random.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,4 +1,4 @@
-#include "res://math/const.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
 
 // Henyey-Greenstein phase function factor [-1, 1]
 // represents the average cosine of the scattered directions

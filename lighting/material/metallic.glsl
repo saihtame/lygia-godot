@@ -1,7 +1,7 @@
-#include "res://toMetallic.glsl"
-#include "res://albedo.glsl"
-#include "res://specular.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/toMetallic.glsl"
+#include "res://addons/lygia_godot/albedo.glsl"
+#include "res://addons/lygia_godot/specular.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

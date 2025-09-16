@@ -1,5 +1,5 @@
-#include "res://sampler.glsl"
-#include "res://math/pow3.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
+#include "res://addons/lygia_godot/math/pow3.glsl"
 
 /*
 contributors: Shadi El Hajj

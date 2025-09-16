@@ -1,5 +1,5 @@
-#include "res://triSDF.glsl"
-#include "res://space/scale.glsl"
+#include "res://addons/lygia_godot/triSDF.glsl"
+#include "res://addons/lygia_godot/space/scale.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

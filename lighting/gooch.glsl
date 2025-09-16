@@ -1,12 +1,12 @@
-#include "res://shadingData/new.glsl"
-#include "res://material/roughness.glsl"
-#include "res://material/normal.glsl"
-#include "res://material/albedo.glsl"
-#include "res://material.glsl"
-#include "res://light/new.glsl"
-#include "res://specular.glsl"
-#include "res://diffuse.glsl"
-#include "res://reflection.glsl"
+#include "res://addons/lygia_godot/shadingData/new.glsl"
+#include "res://addons/lygia_godot/material/roughness.glsl"
+#include "res://addons/lygia_godot/material/normal.glsl"
+#include "res://addons/lygia_godot/material/albedo.glsl"
+#include "res://addons/lygia_godot/material.glsl"
+#include "res://addons/lygia_godot/light/new.glsl"
+#include "res://addons/lygia_godot/specular.glsl"
+#include "res://addons/lygia_godot/diffuse.glsl"
+#include "res://addons/lygia_godot/reflection.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

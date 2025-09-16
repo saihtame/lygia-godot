@@ -1,5 +1,5 @@
-#include "res://triangle.glsl"
-#include "res://area.glsl"
+#include "res://addons/lygia_godot/triangle.glsl"
+#include "res://addons/lygia_godot/area.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,5 +1,5 @@
-#include "res://sampler.glsl"
-#include "res://math/mirror.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
+#include "res://addons/lygia_godot/math/mirror.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

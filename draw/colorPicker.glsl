@@ -1,5 +1,5 @@
-#include "res://digits.glsl"
-#include "res://sample/nearest.glsl"
+#include "res://addons/lygia_godot/digits.glsl"
+#include "res://addons/lygia_godot/sample/nearest.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,12 +1,12 @@
-#include "res://tonemap/aces.glsl"
-#include "res://tonemap/debug.glsl"
-#include "res://tonemap/filmic.glsl"
-#include "res://tonemap/linear.glsl"
-#include "res://tonemap/reinhard.glsl"
-#include "res://tonemap/reinhardJodie.glsl"
-#include "res://tonemap/uncharted.glsl"
-#include "res://tonemap/uncharted2.glsl"
-#include "res://tonemap/unreal.glsl"
+#include "res://addons/lygia_godot/tonemap/aces.glsl"
+#include "res://addons/lygia_godot/tonemap/debug.glsl"
+#include "res://addons/lygia_godot/tonemap/filmic.glsl"
+#include "res://addons/lygia_godot/tonemap/linear.glsl"
+#include "res://addons/lygia_godot/tonemap/reinhard.glsl"
+#include "res://addons/lygia_godot/tonemap/reinhardJodie.glsl"
+#include "res://addons/lygia_godot/tonemap/uncharted.glsl"
+#include "res://addons/lygia_godot/tonemap/uncharted2.glsl"
+#include "res://addons/lygia_godot/tonemap/unreal.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

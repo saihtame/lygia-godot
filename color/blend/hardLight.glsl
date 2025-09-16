@@ -1,4 +1,4 @@
-#include "res://overlay.glsl"
+#include "res://addons/lygia_godot/overlay.glsl"
 
 /*
 contributors: Jamie Owen

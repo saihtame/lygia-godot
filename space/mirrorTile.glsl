@@ -1,5 +1,5 @@
-#include "res://sqTile.glsl"
-#include "res://math/mirror.glsl"
+#include "res://addons/lygia_godot/sqTile.glsl"
+#include "res://addons/lygia_godot/math/mirror.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

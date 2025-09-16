@@ -1,5 +1,5 @@
-#include "res://triangle.glsl"
-#include "res://barycentric.glsl"
+#include "res://addons/lygia_godot/triangle.glsl"
+#include "res://addons/lygia_godot/barycentric.glsl"
 
 /*
 contributors: 

@@ -1,8 +1,8 @@
-#include "res://space/rgb2lab.glsl"
-#include "res://space/rgb2YCbCr.glsl"
-#include "res://space/rgb2YPbPr.glsl"
-#include "res://space/rgb2yuv.glsl"
-#include "res://space/rgb2oklab.glsl"
+#include "res://addons/lygia_godot/space/rgb2lab.glsl"
+#include "res://addons/lygia_godot/space/rgb2YCbCr.glsl"
+#include "res://addons/lygia_godot/space/rgb2YPbPr.glsl"
+#include "res://addons/lygia_godot/space/rgb2yuv.glsl"
+#include "res://addons/lygia_godot/space/rgb2oklab.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

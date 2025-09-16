@@ -1,22 +1,22 @@
-#include "res://math/saturate.glsl"
-#include "res://color/tonemap.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/color/tonemap.glsl"
 
-#include "res://common/ggx.glsl"
-#include "res://common/kelemen.glsl"
+#include "res://addons/lygia_godot/common/ggx.glsl"
+#include "res://addons/lygia_godot/common/kelemen.glsl"
 
-#include "res://shadingData/new.glsl"
-#include "res://material.glsl"
-#include "res://envMap.glsl"
-#include "res://fresnelReflection.glsl"
-#include "res://sphericalHarmonics.glsl"
-#include "res://light/new.glsl"
-#include "res://light/resolve.glsl"
+#include "res://addons/lygia_godot/shadingData/new.glsl"
+#include "res://addons/lygia_godot/material.glsl"
+#include "res://addons/lygia_godot/envMap.glsl"
+#include "res://addons/lygia_godot/fresnelReflection.glsl"
+#include "res://addons/lygia_godot/sphericalHarmonics.glsl"
+#include "res://addons/lygia_godot/light/new.glsl"
+#include "res://addons/lygia_godot/light/resolve.glsl"
 
-#include "res://reflection.glsl"
-#include "res://common/specularAO.glsl"
-#include "res://common/envBRDFApprox.glsl"
+#include "res://addons/lygia_godot/reflection.glsl"
+#include "res://addons/lygia_godot/common/specularAO.glsl"
+#include "res://addons/lygia_godot/common/envBRDFApprox.glsl"
 
-#include "res://ior/2f0.glsl"
+#include "res://addons/lygia_godot/ior/2f0.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

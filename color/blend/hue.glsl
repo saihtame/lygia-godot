@@ -1,5 +1,5 @@
-#include "res://space/rgb2hsv.glsl"
-#include "res://space/hsv2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2hsv.glsl"
+#include "res://addons/lygia_godot/space/hsv2rgb.glsl"
 
 /*
 contributors: Romain Dura

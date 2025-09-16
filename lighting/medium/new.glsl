@@ -1,4 +1,4 @@
-#include "res://medium.glsl"
+#include "res://addons/lygia_godot/medium.glsl"
 
 /*
 contributors: Shadi El Hajj

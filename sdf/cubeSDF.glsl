@@ -1,4 +1,4 @@
-#include "res://boxSDF.glsl"
+#include "res://addons/lygia_godot/boxSDF.glsl"
 
 /*
 description: generate the SDF of a cube

@@ -1,6 +1,6 @@
 
-#include "res://digits.glsl"
-#include "res://circle.glsl"
+#include "res://addons/lygia_godot/digits.glsl"
+#include "res://addons/lygia_godot/circle.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

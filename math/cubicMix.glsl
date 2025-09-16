@@ -1,4 +1,4 @@
-#include "res://cubic.glsl"
+#include "res://addons/lygia_godot/cubic.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

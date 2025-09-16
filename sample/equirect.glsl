@@ -1,10 +1,10 @@
-#include "res://space/xyz2equirect.glsl"
-#include "res://generative/random.glsl"
-#include "res://generative/srandom.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/space/xyz2equirect.glsl"
+#include "res://addons/lygia_godot/generative/random.glsl"
+#include "res://addons/lygia_godot/generative/srandom.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
-#include "res://color/space/linear2gamma.glsl"
-#include "res://color/space/gamma2linear.glsl"
+#include "res://addons/lygia_godot/color/space/linear2gamma.glsl"
+#include "res://addons/lygia_godot/color/space/gamma2linear.glsl"
 /*
 contributors: Patricio Gonzalez Vivo
 description: sample an equirect texture as it was a cubemap

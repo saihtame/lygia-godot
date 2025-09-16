@@ -1,6 +1,6 @@
-#include "res://math/cubic.glsl"
-#include "res://math/quintic.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/cubic.glsl"
+#include "res://addons/lygia_godot/math/quintic.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Inigo Quiles

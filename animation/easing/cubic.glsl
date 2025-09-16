@@ -6,6 +6,6 @@ examples:
     - https://raw.githubusercontent.com/patriciogonzalezvivo/lygia_examples/main/animation_easing.frag
 */
 
-#include "res://cubicIn.glsl"
-#include "res://cubicOut.glsl"
-#include "res://cubicInOut.glsl"
+#include "res://addons/lygia_godot/cubicIn.glsl"
+#include "res://addons/lygia_godot/cubicOut.glsl"
+#include "res://addons/lygia_godot/cubicInOut.glsl"

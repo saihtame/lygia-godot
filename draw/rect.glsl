@@ -1,8 +1,8 @@
 
-#include "res://sdf/rectSDF.glsl"
+#include "res://addons/lygia_godot/sdf/rectSDF.glsl"
 
-#include "res://fill.glsl"
-#include "res://stroke.glsl"
+#include "res://addons/lygia_godot/fill.glsl"
+#include "res://addons/lygia_godot/stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

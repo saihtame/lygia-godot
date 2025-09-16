@@ -1,6 +1,6 @@
-#include "res://math/mmin.glsl"
-#include "res://math/mmax.glsl"
-#include "res://math/cubicMix.glsl"
+#include "res://addons/lygia_godot/math/mmin.glsl"
+#include "res://addons/lygia_godot/math/mmax.glsl"
+#include "res://addons/lygia_godot/math/cubicMix.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,4 +1,4 @@
-#include "res://common/schlick.glsl"
+#include "res://addons/lygia_godot/common/schlick.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,5 +1,5 @@
-#include "res://sdf/lineSDF.glsl"
-#include "res://fill.glsl"
+#include "res://addons/lygia_godot/sdf/lineSDF.glsl"
+#include "res://addons/lygia_godot/fill.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

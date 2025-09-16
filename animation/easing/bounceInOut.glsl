@@ -1,4 +1,4 @@
-#include "res://bounceOut.glsl"
+#include "res://addons/lygia_godot/bounceOut.glsl"
 
 /*
 contributors: Hugh Kennedy (https://github.com/hughsk)

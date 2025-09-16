@@ -1,4 +1,4 @@
-#include "res://material.glsl"
+#include "res://addons/lygia_godot/material.glsl"
 
 /*
 contributors: Shadi El Hajj

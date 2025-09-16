@@ -1,5 +1,5 @@
-#include "res://math/absi.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/absi.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors:  [Lingdong Huang, Patricio Gonzalez Vivo]

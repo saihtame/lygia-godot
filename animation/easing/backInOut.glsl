@@ -1,4 +1,4 @@
-#include "res://backIn.glsl"
+#include "res://addons/lygia_godot/backIn.glsl"
 
 /*
 contributors: Hugh Kennedy (https://github.com/hughsk)

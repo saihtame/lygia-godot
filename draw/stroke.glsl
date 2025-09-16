@@ -10,8 +10,8 @@ license:
 #ifndef FNC_STROKE
 #define FNC_STROKE
 
-#include "res://math/aastep.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/math/aastep.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 float stroke(float x, float size, float w) {
     float d = aastep(size, x + w * 0.5) - aastep(size, x - w * 0.5);

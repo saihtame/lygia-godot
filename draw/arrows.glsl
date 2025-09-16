@@ -1,5 +1,5 @@
-#include "res://sdf/lineSDF.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/sdf/lineSDF.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 /*
 contributors: ["Morgan McGuire", "Matthias Reitinger"]

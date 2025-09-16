@@ -1,4 +1,4 @@
-#include "res://color/space/k2rgb.glsl"
+#include "res://addons/lygia_godot/color/space/k2rgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

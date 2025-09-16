@@ -1,5 +1,5 @@
-#include "res://color/space/YCbCr2rgb.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/color/space/YCbCr2rgb.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

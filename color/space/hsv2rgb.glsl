@@ -1,5 +1,5 @@
-#include "res://math/saturate.glsl"
-#include "res://hue2rgb.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/hue2rgb.glsl"
 /*
 contributors: Inigo Quiles
 description: |

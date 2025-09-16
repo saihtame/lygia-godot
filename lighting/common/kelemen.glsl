@@ -1,5 +1,5 @@
 
-#include "res://math/saturateMediump.glsl"
+#include "res://addons/lygia_godot/math/saturateMediump.glsl"
 
 #ifndef FNC_KELEMEN
 #define FNC_KELEMEN

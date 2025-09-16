@@ -1,5 +1,5 @@
-#include "res://space/rgb2lms.glsl"
-#include "res://space/lms2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2lms.glsl"
+#include "res://addons/lygia_godot/space/lms2rgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

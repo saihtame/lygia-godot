@@ -1,4 +1,4 @@
-#include "res://mod289.glsl"
+#include "res://addons/lygia_godot/mod289.glsl"
 
 /*
 contributors: [Stefan Gustavson, Ian McEwan]

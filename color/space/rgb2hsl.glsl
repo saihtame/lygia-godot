@@ -1,4 +1,4 @@
-#include "res://rgb2hcv.glsl"
+#include "res://addons/lygia_godot/rgb2hcv.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

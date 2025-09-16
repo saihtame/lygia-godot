@@ -1,5 +1,5 @@
-#include "res://space/nearest.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/space/nearest.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

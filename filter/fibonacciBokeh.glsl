@@ -1,6 +1,6 @@
-#include "res://color/space/linear2gamma.glsl"
-#include "res://color/space/gamma2linear.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/color/space/linear2gamma.glsl"
+#include "res://addons/lygia_godot/color/space/gamma2linear.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors:

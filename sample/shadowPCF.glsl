@@ -1,4 +1,4 @@
-#include "res://shadowLerp.glsl"
+#include "res://addons/lygia_godot/shadowLerp.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

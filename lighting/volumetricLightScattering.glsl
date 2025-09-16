@@ -1,8 +1,8 @@
-#include "res://math/const.glsl"
-#include "res://math/inverse.glsl"
-#include "res://space/screen2viewPosition.glsl"
-#include "res://space/depth2viewZ.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/math/inverse.glsl"
+#include "res://addons/lygia_godot/space/screen2viewPosition.glsl"
+#include "res://addons/lygia_godot/space/depth2viewZ.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

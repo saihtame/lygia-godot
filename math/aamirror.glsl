@@ -1,4 +1,4 @@
-#include "res://nyquist.glsl"
+#include "res://addons/lygia_godot/nyquist.glsl"
 
 /*
 contributors: Shadi El Hajj

@@ -1,5 +1,5 @@
-#include "res://color/palette/heatmap.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/color/palette/heatmap.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Dennis Gustafsson

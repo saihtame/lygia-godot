@@ -1,4 +1,4 @@
-#include "res://snoise.glsl"
+#include "res://addons/lygia_godot/snoise.glsl"
 
 /*
 contributors: Isaac Cohen

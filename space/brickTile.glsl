@@ -1,4 +1,4 @@
-#include "res://sqTile.glsl"
+#include "res://addons/lygia_godot/sqTile.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

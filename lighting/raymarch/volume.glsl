@@ -1,8 +1,8 @@
-#include "res://map.glsl"
-#include "res://light/attenuation.glsl"
-#include "res://generative/random.glsl"
-#include "res://math/const.glsl"
-#include "res://medium/new.glsl"
+#include "res://addons/lygia_godot/map.glsl"
+#include "res://addons/lygia_godot/light/attenuation.glsl"
+#include "res://addons/lygia_godot/generative/random.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/medium/new.glsl"
 
 /*
 contributors:  Shadi El Hajj

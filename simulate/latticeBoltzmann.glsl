@@ -1,5 +1,5 @@
-#include "res://math/saturate.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 original_author: Patricio Gonzalez Vivo

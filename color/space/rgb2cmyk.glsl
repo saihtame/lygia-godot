@@ -1,5 +1,5 @@
-#include "res://math/mmin.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/math/mmin.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

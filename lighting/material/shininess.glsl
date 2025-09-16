@@ -1,4 +1,4 @@
-#include "res://toShininess.glsl"
+#include "res://addons/lygia_godot/toShininess.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

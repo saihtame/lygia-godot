@@ -1,8 +1,8 @@
-#include "res://common/schlick.glsl"
+#include "res://addons/lygia_godot/common/schlick.glsl"
 
-#include "res://math/pow5.glsl"
-#include "res://math/const.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/math/pow5.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

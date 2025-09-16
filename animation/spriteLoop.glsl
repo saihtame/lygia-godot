@@ -1,4 +1,4 @@
-#include "res://sample/sprite.glsl"
+#include "res://addons/lygia_godot/sample/sprite.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

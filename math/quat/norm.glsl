@@ -1,5 +1,5 @@
-#include "res://length.glsl"
-#include "res://div.glsl"
+#include "res://addons/lygia_godot/length.glsl"
+#include "res://addons/lygia_godot/div.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

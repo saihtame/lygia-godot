@@ -1,6 +1,6 @@
-#include "res://directional.glsl"
-#include "res://point.glsl"
-#include "res://shadow.glsl"
+#include "res://addons/lygia_godot/directional.glsl"
+#include "res://addons/lygia_godot/point.glsl"
+#include "res://addons/lygia_godot/shadow.glsl"
 
 #ifndef FNC_LIGHT_NEW
 #define FNC_LIGHT_NEW

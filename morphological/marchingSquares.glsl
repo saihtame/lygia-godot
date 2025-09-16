@@ -1,6 +1,6 @@
-#include "res://math/const.glsl"
-#include "res://math/rotate2d.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/math/rotate2d.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Guido Schmidt

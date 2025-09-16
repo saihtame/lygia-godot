@@ -1,5 +1,5 @@
-#include "res://space/sprite.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/space/sprite.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

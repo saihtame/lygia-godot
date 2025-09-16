@@ -1,4 +1,4 @@
-#include "res://rectSDF.glsl"
+#include "res://addons/lygia_godot/rectSDF.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

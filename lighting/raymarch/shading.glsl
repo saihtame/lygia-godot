@@ -1,9 +1,9 @@
-#include "res://normal.glsl"
-#include "res://cast.glsl"
-#include "res://ao.glsl"
-#include "res://softShadow.glsl"
-#include "res://shadingData/new.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/normal.glsl"
+#include "res://addons/lygia_godot/cast.glsl"
+#include "res://addons/lygia_godot/ao.glsl"
+#include "res://addons/lygia_godot/softShadow.glsl"
+#include "res://addons/lygia_godot/shadingData/new.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

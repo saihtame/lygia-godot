@@ -1,5 +1,5 @@
-#include "res://material.glsl"
-#include "res://medium.glsl"
+#include "res://addons/lygia_godot/material.glsl"
+#include "res://addons/lygia_godot/medium.glsl"
 
 /*
 contributors:  Inigo Quiles

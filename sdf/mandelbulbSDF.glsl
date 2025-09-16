@@ -1,4 +1,4 @@
-#include "res://space/cart2polar.glsl"
+#include "res://addons/lygia_godot/space/cart2polar.glsl"
 
 /*
 contributors: Kathy McGuiness

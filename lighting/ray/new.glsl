@@ -1,4 +1,4 @@
-#include "res://ray.glsl"
+#include "res://addons/lygia_godot/ray.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

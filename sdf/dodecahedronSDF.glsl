@@ -1,4 +1,4 @@
-#include "res://math/const.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
 
 /*
 description: generate the SDF of a dodecahedron

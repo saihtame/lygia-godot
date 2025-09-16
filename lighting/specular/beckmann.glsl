@@ -1,4 +1,4 @@
-#include "res://common/beckmann.glsl"
+#include "res://addons/lygia_godot/common/beckmann.glsl"
 
 #ifndef FNC_SPECULAR_BECKMANN
 #define FNC_SPECULAR_BECKMANN

@@ -1,7 +1,7 @@
-#include "res://random.glsl"
-#include "res://srandom.glsl"
-#include "res://math/cubic.glsl"
-#include "res://math/quintic.glsl"
+#include "res://addons/lygia_godot/random.glsl"
+#include "res://addons/lygia_godot/srandom.glsl"
+#include "res://addons/lygia_godot/math/cubic.glsl"
+#include "res://addons/lygia_godot/math/quintic.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

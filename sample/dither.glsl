@@ -1,8 +1,8 @@
-#include "res://nearest.glsl"
-#include "res://color/dither.glsl"
+#include "res://addons/lygia_godot/nearest.glsl"
+#include "res://addons/lygia_godot/color/dither.glsl"
 
-#include "res://color/space/gamma2linear.glsl"
-#include "res://color/space/linear2gamma.glsl"
+#include "res://addons/lygia_godot/color/space/gamma2linear.glsl"
+#include "res://addons/lygia_godot/color/space/linear2gamma.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

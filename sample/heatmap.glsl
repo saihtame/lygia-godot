@@ -1,5 +1,5 @@
-#include "res://sampler.glsl"
-#include "res://color/space/rgb2heat.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
+#include "res://addons/lygia_godot/color/space/rgb2heat.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

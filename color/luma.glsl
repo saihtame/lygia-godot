@@ -1,4 +1,4 @@
-#include "res://space/rgb2luma.glsl"
+#include "res://addons/lygia_godot/space/rgb2luma.glsl"
 
 /*
 contributors: Hugh Kennedy (https://github.com/hughsk)

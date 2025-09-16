@@ -1,12 +1,12 @@
-#include "res://math/toMat3.glsl"
-#include "res://math/const.glsl"
-#include "res://space/rotate.glsl"
-#include "res://space/lookAtView.glsl"
-#include "res://raymarch/render.glsl"
-#include "res://raymarch/volume.glsl"
-#include "res://material/zero.glsl"
-#include "res://material/add.glsl"
-#include "res://material/multiply.glsl"
+#include "res://addons/lygia_godot/math/toMat3.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/space/rotate.glsl"
+#include "res://addons/lygia_godot/space/lookAtView.glsl"
+#include "res://addons/lygia_godot/raymarch/render.glsl"
+#include "res://addons/lygia_godot/raymarch/volume.glsl"
+#include "res://addons/lygia_godot/material/zero.glsl"
+#include "res://addons/lygia_godot/material/add.glsl"
+#include "res://addons/lygia_godot/material/multiply.glsl"
 
 /*
 contributors:  [Inigo Quiles, Shadi El Hajj, Patricio Gonzalez Vivo]

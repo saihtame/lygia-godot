@@ -1,8 +1,8 @@
-#include "res://generative/snoise.glsl"
-#include "res://generative/pnoise.glsl"
-#include "res://color/luma.glsl"
-#include "res://color/blend/softLight.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/generative/snoise.glsl"
+#include "res://addons/lygia_godot/generative/pnoise.glsl"
+#include "res://addons/lygia_godot/color/luma.glsl"
+#include "res://addons/lygia_godot/color/blend/softLight.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Matt DesLauriers

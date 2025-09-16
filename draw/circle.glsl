@@ -1,8 +1,8 @@
 
-#include "res://sdf/circleSDF.glsl"
+#include "res://addons/lygia_godot/sdf/circleSDF.glsl"
 
-#include "res://fill.glsl"
-#include "res://stroke.glsl"
+#include "res://addons/lygia_godot/fill.glsl"
+#include "res://addons/lygia_godot/stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

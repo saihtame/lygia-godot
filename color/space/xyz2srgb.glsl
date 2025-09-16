@@ -1,5 +1,5 @@
-#include "res://xyz2rgb.glsl"
-#include "res://rgb2srgb.glsl"
+#include "res://addons/lygia_godot/xyz2rgb.glsl"
+#include "res://addons/lygia_godot/rgb2srgb.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

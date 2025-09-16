@@ -1,8 +1,8 @@
-#include "res://shadingData.glsl"
-#include "res://material.glsl"
-#include "res://reflection.glsl"
-#include "res://ior/reflectance2f0.glsl"
-#include "res://common/perceptual2linearRoughness.glsl"
+#include "res://addons/lygia_godot/shadingData.glsl"
+#include "res://addons/lygia_godot/material.glsl"
+#include "res://addons/lygia_godot/reflection.glsl"
+#include "res://addons/lygia_godot/ior/reflectance2f0.glsl"
+#include "res://addons/lygia_godot/common/perceptual2linearRoughness.glsl"
 
 /*
 contributors:  Shadi El Hajj

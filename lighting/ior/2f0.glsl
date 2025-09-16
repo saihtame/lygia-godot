@@ -1,4 +1,4 @@
-#include "res://math/pow2.glsl"
+#include "res://addons/lygia_godot/math/pow2.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

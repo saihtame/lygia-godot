@@ -1,4 +1,4 @@
-#include "res://envMap.glsl"
+#include "res://addons/lygia_godot/envMap.glsl"
 
 /*
 contributors:  The Art Of Code

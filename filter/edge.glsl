@@ -1,4 +1,4 @@
-#include "res://sample/clamp2edge.glsl"
+#include "res://addons/lygia_godot/sample/clamp2edge.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo
@@ -29,9 +29,9 @@ license:
 #define EDGE_SAMPLER_FNC(TEX, UV) sampleClamp2edge(TEX, UV).r
 #endif
 
-#include "res://edge/prewitt.glsl"
-#include "res://edge/sobel.glsl"
-#include "res://edge/sobelDirectional.glsl"
+#include "res://addons/lygia_godot/edge/prewitt.glsl"
+#include "res://addons/lygia_godot/edge/sobel.glsl"
+#include "res://addons/lygia_godot/edge/sobelDirectional.glsl"
 
 #ifndef FNC_EDGE
 #define FNC_EDGE

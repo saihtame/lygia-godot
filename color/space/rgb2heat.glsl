@@ -1,4 +1,4 @@
-#include "res://rgb2hue.glsl"
+#include "res://addons/lygia_godot/rgb2hue.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

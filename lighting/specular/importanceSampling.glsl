@@ -1,11 +1,11 @@
-#include "res://math/hammersley.glsl"
-#include "res://math/rotate3dZ.glsl"
-#include "res://space/tbn.glsl"
-#include "res://generative/random.glsl"
-#include "res://common/ggx.glsl"
-#include "res://common/smithGGXCorrelated.glsl"
-#include "res://fresnel.glsl"
-#include "res://common/preFilteredImportanceSampling.glsl"
+#include "res://addons/lygia_godot/math/hammersley.glsl"
+#include "res://addons/lygia_godot/math/rotate3dZ.glsl"
+#include "res://addons/lygia_godot/space/tbn.glsl"
+#include "res://addons/lygia_godot/generative/random.glsl"
+#include "res://addons/lygia_godot/common/ggx.glsl"
+#include "res://addons/lygia_godot/common/smithGGXCorrelated.glsl"
+#include "res://addons/lygia_godot/fresnel.glsl"
+#include "res://addons/lygia_godot/common/preFilteredImportanceSampling.glsl"
 
 /*
 contributors:  Shadi El Hajj

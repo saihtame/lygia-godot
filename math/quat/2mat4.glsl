@@ -1,6 +1,6 @@
-#include "res://type.glsl"
-#include "res://2mat3.glsl"
-#include "res://toMat4.glsl"
+#include "res://addons/lygia_godot/type.glsl"
+#include "res://addons/lygia_godot/2mat3.glsl"
+#include "res://addons/lygia_godot/toMat4.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

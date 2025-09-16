@@ -1,7 +1,7 @@
-#include "res://math/mod289.glsl"
-#include "res://math/permute.glsl"
-#include "res://math/taylorInvSqrt.glsl"
-#include "res://math/quintic.glsl"
+#include "res://addons/lygia_godot/math/mod289.glsl"
+#include "res://addons/lygia_godot/math/permute.glsl"
+#include "res://addons/lygia_godot/math/taylorInvSqrt.glsl"
+#include "res://addons/lygia_godot/math/quintic.glsl"
 
 /*
 contributors: [Stefan Gustavson, Ian McEwan]

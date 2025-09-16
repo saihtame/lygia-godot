@@ -1,5 +1,5 @@
-#include "res://specular.glsl"
-#include "res://diffuse.glsl"
+#include "res://addons/lygia_godot/specular.glsl"
+#include "res://addons/lygia_godot/diffuse.glsl"
 
 /*
 contributors: [Patricio Gonzalez Vivo, Shadi El Hajj]

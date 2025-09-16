@@ -1,8 +1,8 @@
-#include "res://cast.glsl"
-#include "res://ao.glsl"
-#include "res://normal.glsl"
-#include "res://shading.glsl"
-#include "res://fog.glsl"
+#include "res://addons/lygia_godot/cast.glsl"
+#include "res://addons/lygia_godot/ao.glsl"
+#include "res://addons/lygia_godot/normal.glsl"
+#include "res://addons/lygia_godot/shading.glsl"
+#include "res://addons/lygia_godot/fog.glsl"
 
 /*
 contributors:  Inigo Quiles

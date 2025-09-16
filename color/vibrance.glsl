@@ -7,9 +7,9 @@ use: <vec3|vec4> vibrance(<vec3|vec4> color, <float> v)
 license: MIT License (MIT) Copyright (c) 2014 CeeJayDK
 */
 
-#include "res://math/mmax.glsl"
-#include "res://math/mmin.glsl"
-#include "res://luma.glsl"
+#include "res://addons/lygia_godot/math/mmax.glsl"
+#include "res://addons/lygia_godot/math/mmin.glsl"
+#include "res://addons/lygia_godot/luma.glsl"
 
 #ifndef FNC_VIBRANCE
 #define FNC_VIBRANCE

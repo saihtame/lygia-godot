@@ -1,6 +1,6 @@
-#include "res://levels/inputRange.glsl"
-#include "res://levels/outputRange.glsl"
-#include "res://levels/gamma.glsl"
+#include "res://addons/lygia_godot/levels/inputRange.glsl"
+#include "res://addons/lygia_godot/levels/outputRange.glsl"
+#include "res://addons/lygia_godot/levels/gamma.glsl"
 
 /*
 contributors: Johan Ismael

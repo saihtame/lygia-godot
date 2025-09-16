@@ -1,14 +1,14 @@
-#include "res://material/albedo.glsl"
-#include "res://material/specular.glsl"
-#include "res://material/emissive.glsl"
-#include "res://material/occlusion.glsl"
+#include "res://addons/lygia_godot/material/albedo.glsl"
+#include "res://addons/lygia_godot/material/specular.glsl"
+#include "res://addons/lygia_godot/material/emissive.glsl"
+#include "res://addons/lygia_godot/material/occlusion.glsl"
 
-#include "res://material/normal.glsl"
+#include "res://addons/lygia_godot/material/normal.glsl"
 
-#include "res://material/metallic.glsl"
-#include "res://material/roughness.glsl"
+#include "res://addons/lygia_godot/material/metallic.glsl"
+#include "res://addons/lygia_godot/material/roughness.glsl"
 
-#include "res://material/shininess.glsl"
+#include "res://addons/lygia_godot/material/shininess.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

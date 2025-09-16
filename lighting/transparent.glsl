@@ -1,7 +1,7 @@
-#include "res://envMap.glsl"
-#include "res://ior.glsl"
-#include "res://ior/2eta.glsl"
-#include "res://ior/2f0.glsl"
+#include "res://addons/lygia_godot/envMap.glsl"
+#include "res://addons/lygia_godot/ior.glsl"
+#include "res://addons/lygia_godot/ior/2eta.glsl"
+#include "res://addons/lygia_godot/ior/2f0.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

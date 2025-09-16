@@ -1,5 +1,5 @@
-#include "res://space/rgb2yiq.glsl"
-#include "res://space/yiq2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2yiq.glsl"
+#include "res://addons/lygia_godot/space/yiq2rgb.glsl"
 
 /*
 contributors:

@@ -1,4 +1,4 @@
-#include "res://stroke.glsl"
+#include "res://addons/lygia_godot/stroke.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

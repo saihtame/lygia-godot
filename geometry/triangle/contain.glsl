@@ -1,4 +1,4 @@
-#include "res://triangle.glsl"
+#include "res://addons/lygia_godot/triangle.glsl"
 
 /*
 contributors: Thomas Müller & Alex Evans

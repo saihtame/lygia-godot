@@ -1,5 +1,5 @@
-#include "res://lighten.glsl"
-#include "res://darken.glsl"
+#include "res://addons/lygia_godot/lighten.glsl"
+#include "res://addons/lygia_godot/darken.glsl"
 
 /*
 contributors: Jamie Owen

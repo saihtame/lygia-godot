@@ -1,5 +1,5 @@
-#include "res://math/rotate2d.glsl"
-#include "res://math/rotate4d.glsl"
+#include "res://addons/lygia_godot/math/rotate2d.glsl"
+#include "res://addons/lygia_godot/math/rotate4d.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,4 +1,4 @@
-#include "res://map.glsl"
+#include "res://addons/lygia_godot/map.glsl"
 
 /*
 contributors:  Inigo Quiles

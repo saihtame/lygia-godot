@@ -1,4 +1,4 @@
-#include "res://type.glsl"
+#include "res://addons/lygia_godot/type.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

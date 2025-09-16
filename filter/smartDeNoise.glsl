@@ -17,8 +17,8 @@ license: |
     All rights reserved.
 */
 
-#include "res://sampler.glsl"
-#include "res://math/const.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
 
 #ifndef SMARTDENOISE_TYPE
 #define SMARTDENOISE_TYPE vec4

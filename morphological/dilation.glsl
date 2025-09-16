@@ -1,6 +1,6 @@
-#include "res://sampler.glsl"
-#include "res://math/saturate.glsl"
-#include "res://math/sum.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/math/sum.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

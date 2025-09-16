@@ -1,4 +1,4 @@
-#include "res://sample/clamp2edge.glsl"
+#include "res://addons/lygia_godot/sample/clamp2edge.glsl"
 
 /*
 contributors: Brad Larson

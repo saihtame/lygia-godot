@@ -1,5 +1,5 @@
-#include "res://math/const.glsl"
-#include "res://space/scale.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/space/scale.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

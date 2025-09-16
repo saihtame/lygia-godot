@@ -1,8 +1,8 @@
-#include "res://common/ggx.glsl"
-#include "res://common/smithGGXCorrelated.glsl"
-#include "res://math/saturate.glsl"
-#include "res://math/saturateMediump.glsl"
-#include "res://fresnel.glsl"
+#include "res://addons/lygia_godot/common/ggx.glsl"
+#include "res://addons/lygia_godot/common/smithGGXCorrelated.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/math/saturateMediump.glsl"
+#include "res://addons/lygia_godot/fresnel.glsl"
 
 #ifndef FNC_SPECULAR_COOKTORRANCE
 #define FNC_SPECULAR_COOKTORRANCE

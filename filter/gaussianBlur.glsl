@@ -1,4 +1,4 @@
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors:
@@ -29,11 +29,11 @@ license:
 #define GAUSSIANBLUR_SAMPLER_FNC(TEX, UV) SAMPLER_FNC(TEX, UV)
 #endif
 
-#include "res://gaussianBlur/2D.glsl"
-#include "res://gaussianBlur/1D.glsl"
-#include "res://gaussianBlur/1D_fast13.glsl"
-#include "res://gaussianBlur/1D_fast9.glsl"
-#include "res://gaussianBlur/1D_fast5.glsl"
+#include "res://addons/lygia_godot/gaussianBlur/2D.glsl"
+#include "res://addons/lygia_godot/gaussianBlur/1D.glsl"
+#include "res://addons/lygia_godot/gaussianBlur/1D_fast13.glsl"
+#include "res://addons/lygia_godot/gaussianBlur/1D_fast9.glsl"
+#include "res://addons/lygia_godot/gaussianBlur/1D_fast5.glsl"
 
 #ifndef FNC_GAUSSIANBLUR
 #define FNC_GAUSSIANBLUR

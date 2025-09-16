@@ -1,5 +1,5 @@
-#include "res://math/saturate.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors:
@@ -38,7 +38,7 @@ license:
 #endif
 #endif
 
-#include "res://sample/2DCube.glsl"
+#include "res://addons/lygia_godot/sample/2DCube.glsl"
 vec4 lut(in SAMPLER_TYPE tex_lut, in vec4 color, in int offset) { 
     return sample2DCube(tex_lut, color.rgb); 
 }

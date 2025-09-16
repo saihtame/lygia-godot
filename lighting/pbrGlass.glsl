@@ -1,18 +1,18 @@
-#include "res://color/tonemap.glsl"
+#include "res://addons/lygia_godot/color/tonemap.glsl"
 
-#include "res://material.glsl"
-#include "res://light/new.glsl"
-#include "res://envMap.glsl"
-#include "res://specular.glsl"
-#include "res://fresnelReflection.glsl"
-#include "res://transparent.glsl"
+#include "res://addons/lygia_godot/material.glsl"
+#include "res://addons/lygia_godot/light/new.glsl"
+#include "res://addons/lygia_godot/envMap.glsl"
+#include "res://addons/lygia_godot/specular.glsl"
+#include "res://addons/lygia_godot/fresnelReflection.glsl"
+#include "res://addons/lygia_godot/transparent.glsl"
 
-#include "res://ior/2eta.glsl"
-#include "res://ior/2f0.glsl"
+#include "res://addons/lygia_godot/ior/2eta.glsl"
+#include "res://addons/lygia_godot/ior/2f0.glsl"
 
-#include "res://reflection.glsl"
-#include "res://common/specularAO.glsl"
-#include "res://common/envBRDFApprox.glsl"
+#include "res://addons/lygia_godot/reflection.glsl"
+#include "res://addons/lygia_godot/common/specularAO.glsl"
+#include "res://addons/lygia_godot/common/envBRDFApprox.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

@@ -1,7 +1,7 @@
-#include "res://shadingData/new.glsl"
-#include "res://diffuse/lambert.glsl"
-#include "res://diffuse/orenNayar.glsl"
-#include "res://diffuse/burley.glsl"
+#include "res://addons/lygia_godot/shadingData/new.glsl"
+#include "res://addons/lygia_godot/diffuse/lambert.glsl"
+#include "res://addons/lygia_godot/diffuse/orenNayar.glsl"
+#include "res://addons/lygia_godot/diffuse/burley.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

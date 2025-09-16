@@ -1,8 +1,8 @@
-#include "res://space/srgb2rgb.glsl"
-#include "res://space/rgb2srgb.glsl"
+#include "res://addons/lygia_godot/space/srgb2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2srgb.glsl"
 
-#include "res://space/oklab2rgb.glsl"
-#include "res://space/rgb2oklab.glsl"
+#include "res://addons/lygia_godot/space/oklab2rgb.glsl"
+#include "res://addons/lygia_godot/space/rgb2oklab.glsl"
 
 /*
 contributors: [Bjorn Ottosson, Inigo Quiles]

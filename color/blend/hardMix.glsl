@@ -1,4 +1,4 @@
-#include "res://vividLight.glsl"
+#include "res://addons/lygia_godot/vividLight.glsl"
 
 /*
 contributors: Jamie Owen

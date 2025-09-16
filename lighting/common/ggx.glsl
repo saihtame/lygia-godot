@@ -1,5 +1,5 @@
-#include "res://math/const.glsl"
-#include "res://math/saturateMediump.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/math/saturateMediump.glsl"
 
 #ifndef FNC_GGX
 #define FNC_GGX

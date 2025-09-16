@@ -55,7 +55,7 @@ def modify_line(line):
     modified_path = include_path.replace('../', '')
 
     # Prepend 'res://' and return the full line
-    return f"""#include "res://{modified_path}"""
+    return f"""#include "res://addons/lygia_godot/{modified_path}"""
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:

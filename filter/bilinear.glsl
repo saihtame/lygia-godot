@@ -1,6 +1,6 @@
-#include "res://math/const.glsl"
-#include "res://math/saturate.glsl"
-#include "res://sample/clamp2edge.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
+#include "res://addons/lygia_godot/sample/clamp2edge.glsl"
 
 /*
 contributors: Patricio Gonzalez Vivo

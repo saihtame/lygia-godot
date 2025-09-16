@@ -1,5 +1,5 @@
-#include "res://triangle.glsl"
-#include "res://math/saturate.glsl"
+#include "res://addons/lygia_godot/triangle.glsl"
+#include "res://addons/lygia_godot/math/saturate.glsl"
 
 /*
 contributors: Inigo Quiles

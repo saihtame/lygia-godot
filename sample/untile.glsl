@@ -1,7 +1,7 @@
-#include "res://math/const.glsl"
-#include "res://math/sum.glsl"
-#include "res://generative/random.glsl"
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/math/const.glsl"
+#include "res://addons/lygia_godot/math/sum.glsl"
+#include "res://addons/lygia_godot/generative/random.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Inigo Quiles

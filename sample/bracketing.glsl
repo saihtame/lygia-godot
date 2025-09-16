@@ -1,7 +1,7 @@
-#include "res://space/rotate.glsl"
-#include "res://space/bracketing.glsl"
+#include "res://addons/lygia_godot/space/rotate.glsl"
+#include "res://addons/lygia_godot/space/bracketing.glsl"
 
-#include "res://sampler.glsl"
+#include "res://addons/lygia_godot/sampler.glsl"
 
 /*
 contributors: Huw Bowles
